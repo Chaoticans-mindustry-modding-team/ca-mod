@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Silver Wall",
+    "name": "Large Red Wall",
     "health": 2400,
     "size": 2,
     "alwaysUnlocked": true,
