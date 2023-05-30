@@ -5,11 +5,11 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "silver/6"
+     "copper/6"
     ],
     "category": "defense",
     "research": {
-    "parent": "scale"
+    
     }
 }
     
