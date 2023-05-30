@@ -1,0 +1,17 @@
+{
+    name: "camod",
+    repo: "Chaoticans-mindustry-modding-team/ca-mod",
+    minGameVersion: 143,
+    version: "135",
+    
+    displayName: "ca-mod",
+    author: "The chaoticans",
+    subtitle:"E",
+    description:
+'''
+Mod for mindustry server                 
+'''
+    hideBrowser: false,
+    hidden: true,
+    dependencies: []
+}
