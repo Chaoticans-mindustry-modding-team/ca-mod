@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Silver Wall",
+    "name": "Red Wall",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
