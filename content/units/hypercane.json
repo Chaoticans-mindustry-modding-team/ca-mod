@@ -1,7 +1,7 @@
 {
         "type": "flying",
 	"speed": 1,
-	
+	"rotate": false,
 	"outlineColor": "41445500",
 	"hitSize": 250,
 	"health": 230000,
@@ -24,7 +24,7 @@
         "trailColor": "66B1FFFF",
         "trailLength": 6,
         "engineColor": "66B1FFFF",
-	"rotateSpeed": 1
+	"rotateSpeed": 0,
 	"faceTarget": false,
     "parts": [
  
