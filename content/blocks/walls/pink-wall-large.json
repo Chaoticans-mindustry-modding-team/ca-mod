@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Black Wall",
+    "name": "Large Pink Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
