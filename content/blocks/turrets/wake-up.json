@@ -1,7 +1,7 @@
 {
 	"type": "itemTurret",
 	"health": 1000,
-	"name": "Scale",
+	"name": "Wake-up",
 	"alwaysUnlocked": true,
     "shake": 2,
 	"top": true,
@@ -22,7 +22,7 @@
          },
     "drawer": {
     "type": "drawTurret",
-    "basePrefix": "zerubus-",
+    "basePrefix": "",
          "parts": [
    {
          "type": "RegionPart",
