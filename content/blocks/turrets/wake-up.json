@@ -79,7 +79,7 @@
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
-            "indium": {
+            "copper": {
             "status": "none",
 			"statusDuration": "100",
             "speed": 10,
@@ -111,7 +111,7 @@
 		   "frontColor": "000060FF",
 		   "backColor": "000080FF"
             },
-            "silver": {
+            "copper": {
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
