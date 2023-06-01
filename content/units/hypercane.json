@@ -1,5 +1,5 @@
 {
-        "type": "crawl",
+        "type": "flying",
 	"speed": 1,
 	"rotate": true,
 	"name": "The Hypercane",
@@ -16,7 +16,7 @@
         "itemCapacity": 50,
 	"armor": 0,
         "canBoost": false,
-        "hovering": false,
+        "hovering": true,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
 	"targetAir": true,
@@ -243,6 +243,7 @@
     "sideWidth": 1
 	}
 	}
+ 
     ],
     "abilities": [
     {    
@@ -251,6 +252,16 @@
     "colorFrom": "9900bbFF",
     "colorTo": "bb00ddFF",    
     }   
+	    {
+	    "type": "EnergyFieldAbility",
+	    "maxTargets": 100,
+	    "range": 200,
+	     "colorFrom": "9900bbFF",
+             "colorTo": "bb00ddFF",
+	     "color": "9900BBFF",
+	     "damage": 200,
+	     "reload": 10,
+	    }
         ]
 "description": "The most powerful of all the storm units. If you wish to live place indium walls and an extremely powerful defence. It destroys everything it goes over as well as barages with lasers and lightning.",
 }
