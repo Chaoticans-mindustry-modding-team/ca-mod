@@ -1,0 +1,174 @@
+{
+	"type": "itemTurret",
+	"health": 1000,
+	"name": "Scale",
+	"alwaysUnlocked": true,
+    "shake": 2,
+	"top": true,
+	"size": 2,
+	"reload": 0,
+	"range": 100,
+    "shootY": 1,
+    "shootSound": "shootAlt",
+	 "recoil": 1,
+	 "coolantMultiplier": 0.84,
+     "shootCone": 40,
+     "inaccuracy": 2,
+     "shoot": {
+     "type": "metal-pipe",
+     "spread": 3,
+     "barrels": 5,
+     "shots": 4,
+         },
+    "drawer": {
+    "type": "drawTurret",
+    "basePrefix": "zerubus-",
+         "parts": [
+   {
+         "type": "RegionPart",
+         "suffix": "-side-l",
+         "moveY": -1,
+	 "layer": -1,
+          "moveRot": 0,
+         "mirror": false,
+	   "under": true,
+         "progress": "recoil"
+         }
+         {
+         "type": "RegionPart",
+         "suffix": "-blade-l",
+         "moveY": -2,
+         "layer": -1,
+          "moveRot": 0,
+         "mirror": false,
+		 "under": true,
+         "progress": "recoil"
+         }
+	{
+	         "type": "RegionPart",
+         "suffix": "-side-r",
+         "moveY": -1,
+         "layer": -1,
+          "moveRot": 0,
+         "mirror": false,
+	"under": true,
+         "progress": "recoil"
+         }
+         {
+         "type": "RegionPart",
+         "suffix": "-blade-r",
+         "moveY": -2,
+         "layer": -1,
+          "moveRot": 0,
+         "mirror": false,
+		 "under": true,
+         "progress": "recoil"
+         }
+         {
+         "type": "RegionPart",
+         "suffix": "-mid",
+         "moveY": -2,
+	 "layer": -1,
+          "moveRot": 0,
+         "under": true,
+		 "top": false,
+         "progress": "recoil"
+         }
+         ]
+},
+    "shootWarmupSpeed": 0.08,
+	"rotateSpeed": 5,
+    "ammoTypes": {
+            "indium": {
+            "status": "none",
+			"statusDuration": "100",
+            "speed": 10,
+            "trailColor": "000080FF",
+            "trailParam": 4,
+            "trailLength": 13,
+            "trailWidth": 4,
+            "trailEffect": "none",
+            "shrinkY": 0,
+            "shrinkX": 0,
+            "height": 26,
+            "width": 15,
+            "damage": 10,
+            "lifetime": 10,
+            "knockback": 4.8,
+            "hitSize": 2,
+  "shootEffect": {
+            "type": "ParticleEffect",
+             "particles": 5,
+             "length": 70,
+            "lifetime": 46,
+        "cone": 20,
+        "colorFrom": "000060FF",
+        "colorTo": "000080FF",
+        "sizeFrom": 5,
+        "sizeTo": 0
+            },
+            "hitEffect": "thoriumShoot",
+		   "frontColor": "000060FF",
+		   "backColor": "000080FF"
+            },
+            "silver": {
+	    "pierceArmor": true,
+            "speed": 6,
+            "trailColor": "8EE1FFFF",
+            "trailParam": 4,
+            "trailLength": 13,
+            "trailWidth": 2.6,
+            "trailEffect": "none",
+            "shrinkY": 0,
+            "shrinkX": 0,
+            "height": 24,
+            "width": 15,
+            "damage": 12,
+            "lifetime": 15,
+            "hitSize": 2,
+            "shootEffect": "shootSmokeDisperse",
+            "hitEffect": {
+            "type": "multiEffect",
+            "effects": [
+             {
+            "type": "ParticleEffect",
+            "line": true,
+            "particles": 9,
+            "lifetime": 30,
+            "length": 85,
+            "baseLength": 20,
+            "cone": -30,
+            "lenFrom": 7,
+            "lenTo": 0,
+            "colorFrom": "555555FF",
+            "colorTo": "666666FF"
+            },
+           {
+            "type": "ParticleEffect",
+            "particles": 9,
+            "length": 70,
+            "lifetime": 46,
+            "cone": 60,
+            "colorFrom": "664488FF",
+            "colorTo": "8844AAFF",
+            "sizeFrom": 5,
+            "sizeTo": 0
+           }
+            ]
+            },
+		   "frontColor": "fffffFF",
+		   "backColor": "8EE1FFFF"
+            },
+    },
+           
+	"requirements": [
+        "copper/30"
+        
+      
+	],
+	"category": "turret",
+	"research": {
+       
+	}
+
+    }
