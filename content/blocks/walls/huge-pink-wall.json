@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Pink Wall",
+    "name": "Huge Pink Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
