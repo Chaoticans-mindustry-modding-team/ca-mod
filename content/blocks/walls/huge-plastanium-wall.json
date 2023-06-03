@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Plastanium Wall",
+    "name": "Huge Plastanium Wall",
     "health": 600,
     "size": 3,
     "insulated": true,
