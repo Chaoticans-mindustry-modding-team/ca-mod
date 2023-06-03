@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Beryllium Wall",
+    "name": "Huge Beryllium Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
