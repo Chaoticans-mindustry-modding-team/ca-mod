@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "huge Carbide Wall",
+    "name": "Huge Carbide Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
