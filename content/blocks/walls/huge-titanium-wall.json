@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Titanium Wall",
+    "name": "Huge Titanium Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
