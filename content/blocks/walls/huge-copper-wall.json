@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Copper Wall",
+    "name": "Huge Copper Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
