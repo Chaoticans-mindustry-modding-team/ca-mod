@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Red Wall",
+    "name": "Huge Red Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
