@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Surge Wall",
+    "name": "Huge Surge Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
