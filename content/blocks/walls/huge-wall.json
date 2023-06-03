@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Orange Wall",
+    "name": "Huge Orange Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
