@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Colossal Phase Wall",
+    "health": 600,
+    "size": 3,
+    "chanceDeflect": 10,
+    "flashHit": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

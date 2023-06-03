@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Colossal Plastanium Wall",
+    "health": 600,
+    "size": 3,
+    "insulated": true,
+    "absorbLasers": true,
+    "schematicPriority": 10,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

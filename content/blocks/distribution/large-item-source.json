@@ -1,0 +1,14 @@
+{    
+    "type": "ItemSource",
+    "name": "Large Item Source",
+    "health": 600,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

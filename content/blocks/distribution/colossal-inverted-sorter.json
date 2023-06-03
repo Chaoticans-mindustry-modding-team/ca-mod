@@ -1,0 +1,15 @@
+{    
+    "type": "Sorter",
+    "name": "Colossal Inverted Sorter",
+    "health": 600,
+    "size": 3,
+    "invert": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
