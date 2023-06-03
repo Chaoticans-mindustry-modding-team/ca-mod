@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Spectral Wall",
+    "name": "Huge Spectral Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
