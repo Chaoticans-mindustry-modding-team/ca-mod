@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Cyan Wall",
+    "name": "Huge Cyan Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
