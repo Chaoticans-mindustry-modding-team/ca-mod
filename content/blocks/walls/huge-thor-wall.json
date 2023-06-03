@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Thorium Wall",
+    "name": "Huge Thorium Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
