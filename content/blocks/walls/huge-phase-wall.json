@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Phase Wall",
+    "name": "Huge Phase Wall",
     "health": 600,
     "size": 3,
     "chanceDeflect": 10,
