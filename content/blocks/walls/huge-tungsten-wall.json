@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Tungsten Wall",
+    "name": "Huge Tungsten Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
