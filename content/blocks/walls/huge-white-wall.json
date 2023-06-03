@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal White Wall",
+    "name": "Huge White Wall",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
