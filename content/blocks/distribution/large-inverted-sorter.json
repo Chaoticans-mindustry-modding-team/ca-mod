@@ -1,8 +1,9 @@
 {    
-    "type": "invertedSorter",
+    "type": "Sorter",
     "name": "Large Inverted Sorter",
     "health": 600,
     "size": 2,
+    "invert": true,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
