@@ -1,0 +1,15 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Mini Display",
+    "health": 600,
+    "size": 2,
+    "displaySize": 50,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
