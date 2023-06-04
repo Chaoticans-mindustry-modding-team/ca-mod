@@ -3,7 +3,7 @@
     "name": "Gargantuan Processor",
     "health": 600,
     "size": 4,
-    "instructionsPerTick": 800,
+    "instructionsPerTick": 100,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
