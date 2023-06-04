@@ -1,0 +1,15 @@
+{    
+    "type": "LogicBlock",
+    "name": "Gargantuan Processor",
+    "health": 600,
+    "size": 4,
+    "instructionsPerTick": 9000,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
