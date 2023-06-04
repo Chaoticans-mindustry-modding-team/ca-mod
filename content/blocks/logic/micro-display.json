@@ -1,6 +1,6 @@
 {    
     "type": "LogicDisplay",
-    "name": "Gargantuan Processor",
+    "name": "Micro Display",
     "health": 600,
     "size": 1,
     "displaySize": 25,
