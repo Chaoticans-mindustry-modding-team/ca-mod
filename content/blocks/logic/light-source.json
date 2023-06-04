@@ -4,7 +4,7 @@
     "health": 600,
     "size": 1,
     "brightness": 100,
-    "radius": 10,
+    "radius": 100,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
