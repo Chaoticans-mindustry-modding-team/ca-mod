@@ -1,12 +1,14 @@
 {    
     "type": "LogicDisplay",
     "name": "Mini Display",
-    "health": 600,
+    "health": 800,
     "size": 2,
-    "displaySize": 50,
+    "displaySize": 44,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "lead/20",
+     "silicon/24",
+     "metaglass/24"
     ],
     "category": "logic",
     "research": {
