@@ -1,0 +1,15 @@
+{    
+    "type": "CanvasBlock",
+    "name": "Micro Canvas",
+    "health": 600,
+    "size": 2,
+    "canvasSize": 16,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
