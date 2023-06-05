@@ -3,11 +3,12 @@
     "name": "Micro Display",
     "health": 600,
     "size": 1,
-    "displaySize": 44,
+    "displaySize": 22,
     "alwaysUnlocked": true,
     "requirements": [
-     "silicon/24",
-     "metaglass/24"
+     "lead/10",
+     "silicon/12",
+     "metaglass/12"
     ],
     "category": "logic",
     "research": {
