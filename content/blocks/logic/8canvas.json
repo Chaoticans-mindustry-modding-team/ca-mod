@@ -1,0 +1,15 @@
+{    
+    "type": "CanvasBlock",
+    "name": "8canvas",
+    "health": 600,
+    "size": 1,
+    "canvasSize": 8,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
