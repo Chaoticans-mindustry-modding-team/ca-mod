@@ -6,7 +6,11 @@
     "instructionsPerTick": 100,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "copper/400",
+     "lead/600",
+     "thorium/150",
+     "silicon/800",
+     "surge-alloy/70"
     ],
     "category": "logic",
     "research": {
