@@ -1,11 +1,14 @@
 {    
     "type": "MessageBlock",
     "name": "Colossal Reinforced Msg",
-    "health": 600,
+    "health": 1500,
     "size": 3,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "graphite/50"
+     "copper/50"
     ],
     "category": "logic",
     "research": {
