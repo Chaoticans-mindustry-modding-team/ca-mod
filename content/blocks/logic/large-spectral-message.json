@@ -3,6 +3,7 @@
     "name": "Large Spectral Msg",
     "health": 600,
     "size": 2,
+    "maxTextLength": 880,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
