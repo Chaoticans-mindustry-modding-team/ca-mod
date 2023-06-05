@@ -3,11 +3,12 @@
     "name": "Colossal Black Msg",
     "health": 600,
     "size": 3,
-    "maxNewlines": 60,
-    "maxTextLength": 660,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
     "alwaysUnlocked": true,
     "requirements": [
-     "graphite/30"
+     "graphite/50"
+     "copper/50"
     ],
     "category": "logic",
     "research": {
