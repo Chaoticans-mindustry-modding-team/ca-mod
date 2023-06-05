@@ -3,9 +3,11 @@
     "name": "Colossal Blue Msg",
     "health": 600,
     "size": 3,
+    "maxNewlines": 60,
+    "maxTextLength": 660,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "graphite/30"
     ],
     "category": "logic",
     "research": {
