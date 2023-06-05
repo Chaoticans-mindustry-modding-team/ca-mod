@@ -1,6 +1,6 @@
 {    
     "type": "CanvasBlock",
-    "name": "Micro Canvas",
+    "name": "16canvas",
     "health": 600,
     "size": 2,
     "canvasSize": 16,
