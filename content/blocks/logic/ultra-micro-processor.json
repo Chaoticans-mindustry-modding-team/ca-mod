@@ -3,7 +3,7 @@
     "name": "Ultra Micro Processor",
     "health": 600,
     "size": 1,
-    "instructionsPerTick": 900,
+    "instructionsPerTick": 500,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
