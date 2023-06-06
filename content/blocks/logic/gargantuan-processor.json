@@ -4,6 +4,7 @@
     "health": 600,
     "size": 4,
     "instructionsPerTick": 100,
+    "range": 80,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/400",
@@ -12,7 +13,6 @@
      "silicon/800",
      "surge-alloy/70"
     ],
-    "range": 80,
     "category": "logic",
     "research": {
     
