@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "High-density Msg",
+    "name": "infini message",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
