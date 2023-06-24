@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Unloader",
     "name": "Large Unloader",
     "health": 600,
     "size": 2,
