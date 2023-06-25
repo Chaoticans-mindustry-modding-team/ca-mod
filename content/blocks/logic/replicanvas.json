@@ -1,0 +1,15 @@
+{    
+    "type": "CanvasBlock",
+    "name": "replicanvas",
+    "health": 600,
+    "size": 1,
+    "canvasSize": 32,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
