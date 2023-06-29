@@ -1,1 +1,14 @@
-e
+{    
+    "type": "ItemSource",
+    "name": "Item Source Middle",
+    "health": 2147000,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
