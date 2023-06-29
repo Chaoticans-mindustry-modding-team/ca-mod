@@ -1,6 +1,6 @@
 {    
     "type": "Sorter",
-    "name": "Sorter",
+    "name": "Sorter Middle",
     "health": 2147000,
     "size": 1,
     "alwaysUnlocked": true,
