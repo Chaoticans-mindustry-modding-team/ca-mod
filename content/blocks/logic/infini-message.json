@@ -1,10 +1,10 @@
 {    
     "type": "MessageBlock",
-    "name": "infini message",
+    "name": "Infinite Message",
     "health": 600,
     "size": 1,
-    "maxNewlines": 2000,
-    "maxTextLength": 22000,
+    "maxNewlines": 32767,
+    "maxTextLength": 32767,
     "alwaysUnlocked": true,
     "requirements": [
      "graphite/150"
