@@ -1,6 +1,6 @@
 {    
     "type": "LiquidSource",
-    "name": "Colossal Liquid Source",
+    "name": "Huge Liquid Source",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
