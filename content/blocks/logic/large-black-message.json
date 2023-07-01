@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Large Black Msg",
+    "name": "Large Black Message",
     "health": 600,
     "size": 2,
     "maxTextLength": 880,
