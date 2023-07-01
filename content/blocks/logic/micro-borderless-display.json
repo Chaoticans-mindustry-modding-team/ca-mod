@@ -3,7 +3,7 @@
     "name": "Micro Borderless Display",
     "health": 300,
     "size": 1,
-    "displaySize": 22,
+    "displaySize": 32,
     "alwaysUnlocked": true,
     "requirements": [
      "silicon/12",
