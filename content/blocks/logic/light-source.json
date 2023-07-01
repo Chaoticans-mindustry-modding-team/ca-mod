@@ -3,7 +3,7 @@
     "name": "Light Source",
     "health": 600,
     "size": 1,
-    "brightness": 100,
+    "brightness": 10000,
     "radius": 200,
     "alwaysUnlocked": true,
     "requirements": [
