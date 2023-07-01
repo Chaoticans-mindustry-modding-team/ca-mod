@@ -1,6 +1,6 @@
 {    
     "type": "ItemSource",
-    "name": "Colossal Item Source",
+    "name": "Huge Item Source",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
