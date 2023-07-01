@@ -1,6 +1,6 @@
 {    
     "type": "SwitchBlock",
-    "name": " Large Switch",
+    "name": "Large Switch",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
