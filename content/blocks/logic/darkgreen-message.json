@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Dark Green Msg",
+    "name": "Dark Green Message",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
