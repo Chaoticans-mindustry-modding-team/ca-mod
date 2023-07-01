@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Huge Dark Green Msg",
+    "name": "Huge Dark Green Message",
     "health": 600,
     "size": 3,
     "maxNewlines": 180,
