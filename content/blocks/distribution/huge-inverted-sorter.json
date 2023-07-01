@@ -1,6 +1,6 @@
 {    
     "type": "Sorter",
-    "name": "Colossal Inverted Sorter",
+    "name": "Huge Inverted Sorter",
     "health": 600,
     "size": 3,
     "invert": true,
