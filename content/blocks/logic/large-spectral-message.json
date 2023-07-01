@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Large Spectral Msg",
+    "name": "Large Spectral Message",
     "health": 600,
     "size": 2,
     "maxTextLength": 880,
