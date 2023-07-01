@@ -1,6 +1,6 @@
 {    
     "type": "CanvasBlock",
-    "name": "replicanvas",
+    "name": "Compact Canvas",
     "health": 600,
     "size": 1,
     "canvasSize": 32,
