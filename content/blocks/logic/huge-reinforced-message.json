@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Colossal Reinforced Msg",
+    "name": "Huge Reinforced Message",
     "health": 1500,
     "size": 3,
     "maxNewlines": 180,
