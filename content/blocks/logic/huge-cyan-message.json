@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Colossal Cyan Msg",
+    "name": "Huge Cyan Msg",
     "health": 600,
     "size": 3,
     "maxNewlines": 180,
