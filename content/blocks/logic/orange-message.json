@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Orange Msg",
+    "name": "Orange Message",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
