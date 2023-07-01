@@ -3,7 +3,7 @@
     "name": "Mini Borderless Display",
     "health": 400,
     "size": 2,
-    "displaySize": 44,
+    "displaySize": 64,
     "alwaysUnlocked": true,
     "requirements": [
      "silicon/24",
