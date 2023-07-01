@@ -3,7 +3,7 @@
     "name": "Micro Canvas",
     "health": 600,
     "size": 1,
-    "canvasSize": 12,
+    "canvasSize": 4,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
