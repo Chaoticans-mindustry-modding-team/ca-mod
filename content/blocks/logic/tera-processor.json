@@ -1,6 +1,6 @@
 {    
     "type": "LogicBlock",
-    "name": "Gargantuan Processor",
+    "name": "Tera Processor",
     "health": 750,
     "size": 4,
     "instructionsPerTick": 100,
