@@ -1,6 +1,6 @@
 {    
     "type": "Sorter",
-    "name": "Colossal Sorter",
+    "name": "Huge Sorter",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
