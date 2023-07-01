@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Colossal Pink Msg",
+    "name": "Huge Magenta Message",
     "health": 600,
     "size": 3,
     "maxNewlines": 180,
