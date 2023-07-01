@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Black Msg",
+    "name": "Black Message",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
