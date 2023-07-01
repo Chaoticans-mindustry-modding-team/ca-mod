@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Colossal Spectral Msg",
+    "name": "Huge Spectral Message",
     "health": 600,
     "size": 3,
     "maxNewlines": 180,
