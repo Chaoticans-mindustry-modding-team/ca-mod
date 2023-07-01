@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Colossal Orange Msg",
+    "name": "Huge Orange Message",
     "health": 600,
     "size": 3,
     "maxNewlines": 180,
