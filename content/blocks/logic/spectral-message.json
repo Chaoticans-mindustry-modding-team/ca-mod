@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Spectral Msg",
+    "name": "Spectral Message",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,
