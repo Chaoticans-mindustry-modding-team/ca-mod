@@ -1,8 +1,8 @@
 {
     "hardness": 1,
     "cost": 7,
-    "radioactivity": 0,
-    "name": "Other Cyan",
+    "radioactivity": 5,
+    "name": "Cyan",
     "color": "00ffffFF",
     "research": {
         
