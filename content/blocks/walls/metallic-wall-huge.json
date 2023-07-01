@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Colossal Metallic Wall",
+    "name": "Huge Metallic Wall",
     "health": 5400,
     "size": 3,
     "alwaysUnlocked": true,
