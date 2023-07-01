@@ -1,6 +1,6 @@
 {    
     "type": "Unloader",
-    "name": "Colossal Unloader",
+    "name": "Huge Unloader",
     "health": 600,
     "size": 3,
     "alwaysUnlocked": true,
