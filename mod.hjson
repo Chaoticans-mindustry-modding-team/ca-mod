@@ -1,15 +1,15 @@
 {
     name: "camod",
     repo: "Chaoticans-mindustry-modding-team/ca-mod",
-    minGameVersion: 143,
+    minGameVersion: 144,
     version: "135",
     
     displayName: "ca-mod",
-    author: "The chaoticans",
+    author: "The Chaoticans",
     subtitle:"EEEEEEEEEE",
     description:
 '''
-Aesthetics and convenience mod for sandbox and roleplay players.                 
+Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes\n• Much more!
 '''
     hideBrowser: false,
     hidden: true,
