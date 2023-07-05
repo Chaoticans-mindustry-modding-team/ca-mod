@@ -9,7 +9,13 @@
     subtitle:"EEEEEEEEEE",
     description:
 '''
-Aesthetics and convenience mod for roleplay and sandbox players;\n\nAdds features such as:\n• Larger messages,\n• Faster processors,\n• More wall colors and sizes\n• Much more!
+Aesthetics and convenience mod for roleplay and sandbox players;
+
+Adds features such as:
+• Larger messages,
+• Faster processors,
+• More wall colors and sizes
+• Much more!
 '''
     hideBrowser: false,
     hidden: true,
