@@ -1,7 +1,7 @@
 {    
     "type": "Wall",
     "name": "Large Black Wall",
-    "health": 600,
+    "health": 2400,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
