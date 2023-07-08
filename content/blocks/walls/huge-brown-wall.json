@@ -1,11 +1,13 @@
 {    
     "type": "Wall",
     "name": "Huge Brown Wall",
-    "health": 600,
+    "health": 5400,
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/54",
+        "camod-black/27",
+        "camod-orange/27"
     ],
     "category": "defense",
     "research": {
