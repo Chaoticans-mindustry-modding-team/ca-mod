@@ -1,11 +1,12 @@
 {    
     "type": "Wall",
     "name": "Huge Reinforced Surge Wall",
-    "health": 600,
+    "health": 9000,
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "surge-alloy/54",
+        "tungsten/18"
     ],
     "category": "defense",
     "research": {
