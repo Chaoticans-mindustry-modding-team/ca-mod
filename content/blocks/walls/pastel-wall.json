@@ -2,7 +2,7 @@
     "type": "LightBlock",
     "name": "Pastel Wall",
     "health": 900,
-    "size": 3,
+    "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/12",
