@@ -1,14 +1,14 @@
 {    
     "type": "Wall",
     "name": "Huge Plastanium Wall",
-    "health": 600,
+    "health": 4500,
     "size": 3,
     "insulated": true,
     "absorbLasers": true,
     "schematicPriority": 10,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "plastanium/54"
     ],
     "category": "defense",
     "research": {
