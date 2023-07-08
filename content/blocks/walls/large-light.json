@@ -1,11 +1,12 @@
 {    
     "type": "Wall",
     "name": "Large Light",
-    "health": 600,
-    "size": 2,
+    "health": 2400,
+    "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/24",
+        "camod-white/48"
     ],
     "category": "defense",
     "research": {
