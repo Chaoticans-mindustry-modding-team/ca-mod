@@ -1,12 +1,14 @@
 {    
     "type": "Wall",
     "name": "Large Spectral Wall",
-    "health": 600,
+    "health": 1200,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/12",
+        "camod-spectral/24"
     ],
+
     "category": "defense",
     "research": {
     
