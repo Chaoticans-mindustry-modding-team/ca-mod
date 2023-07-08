@@ -2,7 +2,7 @@
     "type": "LightBlock",
     "name": "Large Pastel Wall",
     "health": 3600,
-    "size": 3,
+    "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/48",
