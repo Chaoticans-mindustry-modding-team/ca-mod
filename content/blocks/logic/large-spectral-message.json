@@ -1,12 +1,15 @@
 {    
     "type": "MessageBlock",
     "name": "Large Spectral Message",
-    "health": 600,
+    "health": 160,
     "size": 2,
     "maxTextLength": 880,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "metaglass/40",
+        "graphite/10",
+        "camod-spectral/20",
+        "silicon/4"
     ],
     "category": "logic",
     "research": {
