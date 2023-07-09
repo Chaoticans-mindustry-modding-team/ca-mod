@@ -1,11 +1,12 @@
 {    
     "type": "Wall",
     "name": "Large Spectral Wall",
-    "health": 1200,
+    "health": 2400,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/12",
+        "metaglass/24",
         "camod-spectral/24"
     ],
 
