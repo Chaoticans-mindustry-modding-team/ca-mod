@@ -79,9 +79,9 @@
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
-            "copper": {
+            "thorium": {
             "status": "none",
-			"statusDuration": "100",
+	    "statusDuration": "100",
             "speed": 10,
             "trailColor": "000080FF",
             "trailParam": 4,
@@ -162,7 +162,7 @@
     },
            
 	"requirements": [
-        "copper/30"
+        "copper/100"
         
       
 	],
