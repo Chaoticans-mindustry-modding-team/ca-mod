@@ -3,7 +3,7 @@
     "name": "Tera Processor",
     "health": 750,
     "size": 4,
-    "instructionsPerTick": 100,
+    "instructionsPerTick": 150,
     "range": 600,
     "alwaysUnlocked": true,
     "requirements": [
@@ -13,6 +13,11 @@
      "silicon/800",
      "surge-alloy/70"
     ],
+    "consumes": {
+        "liquid": {
+            "cryofluid/0.2"
+        }
+    },
     "category": "logic",
     "research": {
     
