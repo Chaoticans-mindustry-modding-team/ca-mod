@@ -1,7 +1,7 @@
 {    
     "type": "LogicDisplay",
     "name": "Micro Borderless Display",
-    "health": 300,
+    "health": 40,
     "size": 1,
     "displaySize": 32,
     "alwaysUnlocked": true,
