@@ -1,7 +1,7 @@
 {    
     "type": "CanvasBlock",
     "name": "Mini Borderless Canvas",
-    "health": 600,
+    "health": 64,
     "size": 1,
     "canvasSize": 8,
     "alwaysUnlocked": true,
