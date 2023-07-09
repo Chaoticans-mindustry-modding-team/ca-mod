@@ -1,11 +1,12 @@
 {    
     "type": "Wall",
     "name": "Huge Spectral Wall",
-    "health": 2700,
+    "health": 5400,
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/27",
+        "metaglass/54",
         "camod-spectral/54"
     ],
     "category": "defense",
