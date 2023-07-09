@@ -3,7 +3,7 @@
     "name": "Ultra Micro Processor",
     "health": 80,
     "size": 1,
-    "range": 1000,
+    "range": 1024,
     "instructionsPerTick": 500,
     "buildVisibility": "sandboxOnly",
     "requirements": [],
