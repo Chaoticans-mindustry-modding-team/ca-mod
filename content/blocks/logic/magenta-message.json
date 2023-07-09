@@ -1,11 +1,13 @@
 {    
     "type": "MessageBlock",
     "name": "Magenta Message",
-    "health": 600,
+    "health": 40,
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/5",
+        "graphite/5",
+        "camod-magenta/5"
     ],
     "category": "logic",
     "research": {
