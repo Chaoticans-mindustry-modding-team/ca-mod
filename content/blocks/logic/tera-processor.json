@@ -5,6 +5,8 @@
     "size": 4,
     "instructionsPerTick": 150,
     "range": 600,
+    "hasLiquids": true,
+    "liquidCapacity": 20,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/400",
