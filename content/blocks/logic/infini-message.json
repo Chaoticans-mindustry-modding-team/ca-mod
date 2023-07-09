@@ -3,8 +3,8 @@
     "name": "Infinite Message",
     "health": 600,
     "size": 1,
-    "maxNewlines": 32767,
-    "maxTextLength": 32767,
+    "maxNewlines": 65535,
+    "maxTextLength": 65535,
     "alwaysUnlocked": true,
     "requirements": [
      "graphite/150"
