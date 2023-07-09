@@ -5,7 +5,7 @@
     "size": 1,
     "brightness": 10000,
     "radius": 200,
-    "alwaysUnlocked": true,
+    "buildVisibility": "lightingOnly",
     "requirements": [
         "camod-white/65536",
         "silicon/65536",
