@@ -1,14 +1,15 @@
 {    
     "type": "MessageBlock",
     "name": "Huge Message",
-    "health": 600,
+    "health": 400,
     "size": 3,
     "maxNewlines": 180,
     "maxTextLength": 1980,
     "alwaysUnlocked": true,
     "requirements": [
-     "graphite/50"
-     "copper/50"
+        "graphite/50",
+        "copper/50",
+        "silicon/20"
     ],
     "category": "logic",
     "research": {
