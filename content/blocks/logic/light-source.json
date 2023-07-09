@@ -1,13 +1,16 @@
 {    
     "type": "LightBlock",
     "name": "Light Source",
-    "health": 600,
+    "health": 65536,
     "size": 1,
     "brightness": 10000,
     "radius": 200,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "camod-white/65536",
+        "silicon/65536",
+        "camod-spectral/65536",
+        "metaglass/65536"
     ],
     "category": "effect",
     "research": {
