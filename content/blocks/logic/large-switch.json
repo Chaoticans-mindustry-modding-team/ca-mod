@@ -1,11 +1,13 @@
 {    
     "type": "SwitchBlock",
     "name": "Large Switch",
-    "health": 600,
+    "health": 160,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/20",
+        "graphite/20",
+        "silicon/5"
     ],
     "category": "logic",
     "research": {
