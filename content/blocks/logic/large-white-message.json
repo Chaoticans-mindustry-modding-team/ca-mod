@@ -1,12 +1,15 @@
 {    
     "type": "MessageBlock",
     "name": "Large White Message",
-    "health": 600,
+    "health": 160,
     "size": 2,
     "maxTextLength": 880,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/20",
+        "graphite/20",
+        "camod-white/20",
+        "silicon/8"
     ],
     "category": "logic",
     "research": {
