@@ -6,9 +6,9 @@
     "displaySize": 48,
     "alwaysUnlocked": true,
     "requirements": [
-     "lead/20",
-     "silicon/24",
-     "metaglass/24"
+     "lead/24",
+     "silicon/50",
+     "metaglass/50"
     ],
     "category": "logic",
     "research": {
