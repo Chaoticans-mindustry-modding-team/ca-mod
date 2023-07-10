@@ -1,12 +1,10 @@
 {    
     "type": "LiquidSource",
     "name": "Huge Liquid Source",
-    "health": 600,
+    "health": 400,
     "size": 3,
-    "alwaysUnlocked": true,
-    "requirements": [
-     "copper/6"
-    ],
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
     "category": "liquid",
     "research": {
     
