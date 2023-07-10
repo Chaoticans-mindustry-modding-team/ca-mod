@@ -16,9 +16,7 @@
      "surge-alloy/70"
     ],
     "consumes": {
-        "liquid": {
-            "cryofluid/0.2"
-        }
+        "liquid": "cryofluid/0.2"
     },
     "category": "logic",
     "research": {
