@@ -1,7 +1,7 @@
 {    
     "type": "ItemSource",
     "name": "Large Item Source",
-    "health": 600,
+    "health": 160,
     "size": 2,
     "buildVisibility": "sandboxOnly",
     "requirements": [],
