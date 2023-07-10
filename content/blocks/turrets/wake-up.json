@@ -107,11 +107,11 @@
         "sizeFrom": 5,
         "sizeTo": 0
             },
-            "hitEffect": "thoriumShoot",
+            "hitEffect": "copperShoot",
 		   "frontColor": "000060FF",
 		   "backColor": "000080FF"
             },
-            "copper": {
+            "thorium": {
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
