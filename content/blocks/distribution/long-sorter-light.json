@@ -1,11 +1,12 @@
 {    
     "type": "Sorter",
     "name": "Sorter Top",
-    "health": 2147000,
+    "health": 40,
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/2",
+        "lead/2"
     ],
     "rotate": true,
     "category": "distribution",
