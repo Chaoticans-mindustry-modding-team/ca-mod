@@ -1,6 +1,6 @@
 {    
     "type": "Sorter",
-    "name": "Colorable wall",
+    "name": "Colorable Wall",
     "description": "Like a scrap wall, but can be configured to display a certain material.",
     "health": 240,
     "size": 1,
