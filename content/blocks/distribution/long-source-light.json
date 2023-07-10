@@ -3,7 +3,7 @@
     "name": "Item Source Top",
     "health": 40,
     "size": 1,
-    "alwaysUnlocked": true,
+    "buildVisibility": "sandboxOnly",
     "requirements": [],
     "rotate": true,
     "category": "distribution",
