@@ -1,11 +1,12 @@
 {    
     "type": "Unloader",
     "name": "Huge Unloader",
-    "health": 600,
+    "health": 700,
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "titanium/250",
+        "silicon/300"
     ],
     "category": "effect",
     "research": {
