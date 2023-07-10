@@ -5,7 +5,7 @@
     "health": 240,
     "size": 1,
     "buildVisibility": "sandboxOnly",
-    //"requirements": ["silicon/6","copper/2","lead/2","camod-cyan/6","camod-magenta/6","camod-yellow/6","camod-white/6","camod-spectral/6"],
+    "requirements": ["silicon/6","copper/2","lead/2","camod-cyan/6","camod-magenta/6","camod-yellow/6","camod-white/6","camod-spectral/6"],
     "requirements": []
     "category": "distribution",
     "research": {},
