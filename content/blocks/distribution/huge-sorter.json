@@ -1,11 +1,12 @@
 {    
     "type": "Sorter",
     "name": "Huge Sorter",
-    "health": 600,
+    "health": 350,
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/10",
+        "lead/25"
     ],
     "category": "distribution",
     "research": {
