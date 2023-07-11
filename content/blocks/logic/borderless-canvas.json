@@ -1,0 +1,16 @@
+{    
+    "type": "CanvasBlock",
+    "name": "Borderless Canvas",
+    "health": 255,
+    "size": 2,
+    "canvasSize": 16,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/30",
+        "beryllium/2"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

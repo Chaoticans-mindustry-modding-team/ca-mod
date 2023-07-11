@@ -1,0 +1,13 @@
+{    
+    "type": "ItemSource",
+    "name": "Item Source Top",
+    "health": 40,
+    "size": 1,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "rotate": true,
+    "category": "distribution",
+    "research": {
+    
+    }
+}

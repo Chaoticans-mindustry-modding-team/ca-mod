@@ -1,0 +1,12 @@
+{    
+    "type": "ItemSource",
+    "name": "Tungsten Wall Ore",
+    "description": "Like a tungsten wall, but can be configured to display a certain material.",
+    "health": 240,
+    "size": 1,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "category": "distribution",
+    "research": {},
+    "variants": 4
+}

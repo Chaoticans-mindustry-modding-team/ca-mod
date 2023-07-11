@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Huge Orange Wall",
+    "health": 5400,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/54",
+        "camod-orange/54"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

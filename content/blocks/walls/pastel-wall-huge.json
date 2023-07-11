@@ -1,0 +1,20 @@
+{    
+    "type": "LightBlock",
+    "name": "Huge Pastel Wall",
+    "health": 8100,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/108",
+        "camod-spectral/54",
+        "camod-white/54",
+        "camod-black/54",
+        "camod-magenta/54",
+        "camod-yellow/54",
+        "camod-cyan/54"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

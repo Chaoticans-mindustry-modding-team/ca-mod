@@ -1,0 +1,17 @@
+{    
+    "type": "CanvasBlock",
+    "name": "Compact Canvas",
+    "health": 80,
+    "size": 1,
+    "canvasSize": 32,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/100",
+        "phase-fabric/20",
+        "tungsten/10"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

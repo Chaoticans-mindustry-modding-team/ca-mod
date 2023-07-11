@@ -1,0 +1,19 @@
+{    
+    "type": "MessageBlock",
+    "name": "Huge Spectral Message",
+    "health": 400,
+    "size": 3,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "graphite/20",
+        "metaglass/100",
+        "silicon/10",
+        "camod-spectral/50"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

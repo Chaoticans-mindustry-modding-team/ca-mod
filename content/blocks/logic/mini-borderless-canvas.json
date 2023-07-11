@@ -1,0 +1,15 @@
+{    
+    "type": "CanvasBlock",
+    "name": "Mini Borderless Canvas",
+    "health": 64,
+    "size": 1,
+    "canvasSize": 8,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "silicon/10"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

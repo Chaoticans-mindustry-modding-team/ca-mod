@@ -1,0 +1,13 @@
+{    
+    "type": "Wall",
+    "name": "Clear16",
+    "health": 1,
+    "size": 16,
+    "alwaysUnlocked": true,
+    "requirements": [
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Large Magenta Wall",
+    "health": 2400,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/24",
+        "camod-magenta/24"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

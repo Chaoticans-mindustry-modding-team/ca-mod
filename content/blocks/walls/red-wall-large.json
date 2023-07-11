@@ -5,8 +5,10 @@
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/24",
+        "camod-red/24"
     ],
+
     "category": "defense",
     "research": {
     

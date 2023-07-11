@@ -5,7 +5,9 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/3",
+        "metaglass/6",
+        "camod-spectral/6"
     ],
     "category": "defense",
     "research": {

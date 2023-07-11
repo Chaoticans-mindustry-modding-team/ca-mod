@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Magenta Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "silicon/6",
+        "camod-magenta/6"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,12 @@
+{    
+    "type": "ItemSource",
+    "name": "Huge Item Source",
+    "health": 400,
+    "size": 3,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

@@ -1,12 +1,14 @@
 {    
     "type": "Wall",
     "name": "Large White Wall",
-    "health": 600,
+    "health": 2400,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "silicon/24",
+        "camod-white/24"
     ],
+
     "category": "defense",
     "research": {
     

@@ -28,10 +28,10 @@
          "type": "RegionPart",
          "suffix": "-side-l",
          "moveY": -1,
-	 "layer": -1,
-          "moveRot": 0,
+		 "layer": -1,
+         "moveRot": 0,
          "mirror": false,
-	   "under": true,
+	     "under": true,
          "progress": "recoil"
          }
          {
@@ -79,9 +79,9 @@
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
-            "copper": {
+            "thorium": {
             "status": "none",
-			"statusDuration": "100",
+	    "statusDuration": "100",
             "speed": 10,
             "trailColor": "000080FF",
             "trailParam": 4,
@@ -107,11 +107,11 @@
         "sizeFrom": 5,
         "sizeTo": 0
             },
-            "hitEffect": "thoriumShoot",
+            "hitEffect": "copperShoot",
 		   "frontColor": "000060FF",
 		   "backColor": "000080FF"
             },
-            "copper": {
+            "thorium": {
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
@@ -162,9 +162,16 @@
     },
            
 	"requirements": [
-        "copper/30"
-        
-      
+        	"copper/100",
+		"lead/200",
+		"plastanium/50",
+		"surge-alloy/100",
+		"titanium/400",
+		"graphite/50",
+		"thorium/50",
+		"phase-fabric/10",
+		"metaglass/20",
+		"silicon/100"
 	],
 	"category": "turret",
 	"research": {

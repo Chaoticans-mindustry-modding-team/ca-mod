@@ -1,11 +1,13 @@
 {    
     "type": "MessageBlock",
-    "name": "Spectral Msg",
-    "health": 600,
+    "name": "Spectral Message",
+    "health": 40,
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "metaglass/10",
+        "graphite/2",
+        "camod-spectral/5"
     ],
     "category": "logic",
     "research": {

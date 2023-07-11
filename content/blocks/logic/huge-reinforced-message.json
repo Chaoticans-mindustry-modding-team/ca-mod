@@ -1,0 +1,18 @@
+{    
+    "type": "MessageBlock",
+    "name": "Huge Reinforced Message",
+    "health": 1000,
+    "size": 3,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "graphite/100",
+        "beryllium/50",
+        "silicon/40"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

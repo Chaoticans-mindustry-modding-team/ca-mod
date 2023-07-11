@@ -1,12 +1,13 @@
 {    
     "type": "Sorter",
     "name": "Large Inverted Sorter",
-    "health": 600,
+    "health": 120,
     "size": 2,
     "invert": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/4",
+        "lead/10"
     ],
     "category": "distribution",
     "research": {

@@ -1,11 +1,12 @@
 {    
     "type": "Sorter",
     "name": "Borderless Sorter",
-    "health": 600,
+    "health": 25,
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/2",
+        "lead/1"
     ],
     "category": "distribution",
     "research": {

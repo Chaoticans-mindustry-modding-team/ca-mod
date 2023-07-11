@@ -1,0 +1,18 @@
+{    
+    "type": "MessageBlock",
+    "name": "Large Magenta Message",
+    "health": 160,
+    "size": 2,
+    "maxTextLength": 880,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "copper/20",
+        "graphite/20",
+        "camod-magenta/20",
+        "silicon/8"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

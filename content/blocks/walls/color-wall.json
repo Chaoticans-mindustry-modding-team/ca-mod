@@ -1,0 +1,11 @@
+{
+    "type": "ItemSource",
+    "name": "Colorable Wall",
+    "description": "A wall that can take the colors of a sorter.",
+    "health": 240,
+    "size": 1,
+    "buildVisibility": "sandboxOnly",
+    "requirements": [],
+    "category": "defense",
+    "research": {}
+}
