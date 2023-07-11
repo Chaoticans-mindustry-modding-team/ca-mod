@@ -2,6 +2,7 @@
     "type": "ItemSource",
     "name": "Colorable Wall",
     "description": "A wall that can take the colors of a sorter.",
+    "itemsPerSecond": 0,
     "health": 240,
     "size": 1,
     "buildVisibility": "sandboxOnly",
