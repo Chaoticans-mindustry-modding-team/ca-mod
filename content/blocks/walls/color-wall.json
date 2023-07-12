@@ -9,12 +9,12 @@
     "requirements": [
         "silicon/6",
         "thorium/6",
-        "camod/cyan",
-        "camod/magenta",
-        "camod/yellow",
-        "camod/black",
-        "camod/white",
-        "camod/spectral",
+        "camod-cyan/6",
+        "camod-magenta/6",
+        "camod-yellow/6",
+        "camod-black/6",
+        "camod-white/6",
+        "camod-spectral/6",
         "copper/6",
         "lead/6"
     ],
