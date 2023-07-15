@@ -1,6 +1,7 @@
 {    
     "type": "ItemSource",
     "name": "Huge Item Source",
+    "itemsPerSecond": 900,
     "health": 400,
     "size": 3,
     "buildVisibility": "sandboxOnly",
