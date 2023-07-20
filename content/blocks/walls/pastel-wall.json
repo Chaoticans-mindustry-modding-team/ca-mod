@@ -3,7 +3,7 @@
     "name": "Pastel Wall",
     "health": 900,
     "size": 1,
-    "brightness": 1,
+    "brightness": 10000000000000000000000000000000000000000000000,
     "radius": 0,
     "alwaysUnlocked": true,
     "requirements": [
