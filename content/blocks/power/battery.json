@@ -2,6 +2,8 @@
     "type": "Battery",
     "category": "power",
     "buildVisibility": "shown",
+    "name": "ca-mod-battery",
+    "buildVisibility": "hidden",
     "size": 1,
     "health": 1000,
     "emptyLightColor": "#000000",
