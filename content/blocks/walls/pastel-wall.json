@@ -3,8 +3,8 @@
     "name": "Pastel Wall",
     "health": 900,
     "size": 1,
-    "brightness": 0.1,
-    "radius": 0,
+    "brightness": -10,
+    "radius": 10,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/12",
