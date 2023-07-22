@@ -2,14 +2,14 @@
     "type": "Battery",
     "category": "power",
     "buildVisibility": "shown",
-    "name": "ca-mod-battery",
-    "buildVisibility": "hidden",
+    "name": "Infinite Battery",
+    "buildVisibility": "sandboxOnly",
     "size": 1,
     "health": 1000,
     "emptyLightColor": "#000000",
     "fullLightColor": "#ff3eee",
     "consumes": {
-        "powerBuffered": 1000000000000000000
+        "powerBuffered": 9223372036854775800
     },
     "requirements": [],
 }
