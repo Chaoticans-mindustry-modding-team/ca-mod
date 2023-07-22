@@ -5,8 +5,8 @@
     "buildVisibility": "sandboxOnly",
     "size": 1,
     "health": 1000,
-    "emptyLightColor": "#000000",
-    "fullLightColor": "#ff3eee",
+    "emptyLightColor": "#f8c366",
+    "fullLightColor": "#fb9567",
     "consumes": {
         "powerBuffered": 1000000000000000000000000
     },
