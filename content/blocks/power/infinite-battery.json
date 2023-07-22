@@ -8,7 +8,7 @@
     "emptyLightColor": "#000000",
     "fullLightColor": "#ff3eee",
     "consumes": {
-        "powerBuffered": 9223372036854775800
+        "powerBuffered": 92233720368547758000
     },
     "requirements": [],
 }
