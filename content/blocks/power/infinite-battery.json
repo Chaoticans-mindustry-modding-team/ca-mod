@@ -1,7 +1,6 @@
 {
     "type": "Battery",
     "category": "power",
-    "buildVisibility": "shown",
     "name": "Infinite Battery",
     "buildVisibility": "sandboxOnly",
     "size": 1,
