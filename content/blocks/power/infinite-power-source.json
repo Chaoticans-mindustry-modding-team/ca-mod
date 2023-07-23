@@ -4,5 +4,5 @@
   "category": "power",
   "laserRange": 10,
   "maxNodes": 65535,
-  "powerProduction": 100,
+  "powerProduction": 16666666666666666666666666666667,
 }
