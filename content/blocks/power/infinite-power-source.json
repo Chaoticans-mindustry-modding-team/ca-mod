@@ -1,8 +1,8 @@
 {
-  "type": "PowerSource",
-  "health": 1000,
-  "category": "power",
-  "laserRange": 10,
-  "maxNodes": 65535,
-  "powerProduction": 16666666666666666666666666666667,
+	"type": "PowerSource",
+	"health": 1000,
+	"category": "power",
+	"laserRange": 10,
+	"maxNodes": 65535,
+	"powerProduction": 16666666666666666666666666666667
 }
