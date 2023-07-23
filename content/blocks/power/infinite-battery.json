@@ -1,13 +1,13 @@
 {
-    "type": "Battery",
-    "category": "power",
-    "name": "Infinite Battery",
-    "buildVisibility": "sandboxOnly",
-    "size": 1,
-    "health": 1000,
-    "emptyLightColor": "#f8c366",
-    "fullLightColor": "#fb9567",
-    "consumes": {
-        "powerBuffered": 1000000000000000000000000
-    }
+	"type": "Battery",
+	"category": "power",
+	"name": "Infinite Battery",
+	"buildVisibility": "sandboxOnly",
+	"size": 1,
+	"health": 1000,
+	"emptyLightColor": "#f8c366",
+	"fullLightColor": "#fb9567",
+  	"consumes": {
+		"powerBuffered": 1000000000000000000000000
+	}
 }
