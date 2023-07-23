@@ -4,5 +4,7 @@
 	"category": "power",
 	"laserRange": 10,
 	"maxNodes": 65535,
+	"buildVisibility": "sandboxOnly"
+	"name": "Infinite Power Source"
 	"powerProduction": 16666666666666666666666666666667
 }
