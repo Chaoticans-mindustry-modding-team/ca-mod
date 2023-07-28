@@ -2,7 +2,8 @@
 	"type": "itemTurret",
 	"health": 1000,
 "localizedName": "Ultra Wake Up",
-"description": "[red]VERY LOUD WARNING, can be so loud it can get you votekicked, only use if necessary.",
+"description": "[#ff]WARNING: VERY LOUD[]
+can be so loud it can get you votekicked, only use if necessary.",
 	"alwaysUnlocked": true,
     "shake": 6,
 	"top": true,
@@ -80,7 +81,7 @@
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
-            "copper": {
+            "carbide": {
             "status": "none",
 			"statusDuration": "100",
             "speed": 10,
@@ -112,7 +113,7 @@
 		   "frontColor": "000060FF",
 		   "backColor": "000080FF"
             },
-            "copper": {
+            "carbide": {
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
@@ -163,9 +164,15 @@
     },
            
 	"requirements": [
-        "copper/30"
-        
-      
+        "carbide/400",
+		"surge-alloy/400",
+		"phase-fabric/200",
+		"silicon/800",
+        "thorium/1500",
+        "oxide/500",
+		"graphite/200",
+		"beryllium/2500",
+		"tungsten/1000"
 	],
 	"category": "turret",
 	"research": {
