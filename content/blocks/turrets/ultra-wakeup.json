@@ -2,8 +2,7 @@
 	"type": "itemTurret",
 	"health": 1000,
 "localizedName": "Ultra Wake Up",
-"description": "[#ff]WARNING: VERY LOUD[]
-can be so loud it can get you votekicked, only use if necessary.",
+"description": "[#ff]WARNING: VERY LOUD[]\nCan be so loud it can get you votekicked, only use if necessary.",
 	"alwaysUnlocked": true,
     "shake": 6,
 	"top": true,
