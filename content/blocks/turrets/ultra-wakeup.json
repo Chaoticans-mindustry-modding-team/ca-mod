@@ -81,7 +81,7 @@
 	"rotateSpeed": 5,
     "ammoTypes": {
             "carbide": {
-            "status": "none",
+            "status": "camod-earbleed",
 			"statusDuration": "100",
             "speed": 10,
             "trailColor": "000080FF",
@@ -93,7 +93,7 @@
             "shrinkX": 0,
             "height": 26,
             "width": 15,
-            "damage": 10,
+            "damage": 100,
             "lifetime": 10,
             "knockback": 4.8,
             "hitSize": 2,
@@ -124,7 +124,7 @@
             "shrinkX": 0,
             "height": 24,
             "width": 15,
-            "damage": 12,
+            "damage": 120,
             "lifetime": 15,
             "hitSize": 2,
             "shootEffect": "shootSmokeDisperse",
