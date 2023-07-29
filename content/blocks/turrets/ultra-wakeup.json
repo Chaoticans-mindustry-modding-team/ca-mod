@@ -82,7 +82,7 @@
     "ammoTypes": {
             "carbide": {
             "status": "camod-earbleed",
-			"statusDuration": "120",
+			"statusDuration": "720",
             "speed": 10,
             "trailColor": "000080FF",
             "trailParam": 4,
@@ -114,7 +114,7 @@
             },
             "carbide": {
             "status": "camod-earbleed",
-			"statusDuration": "120",
+			"statusDuration": "720",
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
@@ -126,7 +126,7 @@
             "shrinkX": 0,
             "height": 24,
             "width": 15,
-            "damage": 120,
+            "damage": 720,
             "lifetime": 15,
             "hitSize": 2,
             "shootEffect": "shootSmokeDisperse",
