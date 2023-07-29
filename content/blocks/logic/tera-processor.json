@@ -8,6 +8,7 @@
     "hasLiquids": true,
     "liquidCapacity": 20,
     "alwaysUnlocked": true,
+    "hasPower": true,
     "requirements": [
      "copper/400",
      "lead/600",
