@@ -1,9 +1,10 @@
 {
         "type": "StatusEffect",
         "name": "Earbleed",
-        "description": "Destroys sound organs or mechanisms or overloads them rendering the unit unable to focus."
+        "description": "Destroys sound organs or mechanisms or overloads them rendering the unit unable to focus.",
         "damage": 0.1,
         "damageMultiplier": 0.5,
         "reloadMultiplier": 0.7,
         "speedMultiplier": 0.7,
+        "alwaysUnlocked": true,
 }
