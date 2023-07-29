@@ -82,7 +82,7 @@
     "ammoTypes": {
             "carbide": {
             "status": "camod-earbleed",
-			"statusDuration": "100",
+			"statusDuration": "120",
             "speed": 10,
             "trailColor": "000080FF",
             "trailParam": 4,
@@ -113,6 +113,8 @@
 		   "backColor": "000080FF"
             },
             "carbide": {
+            "status": "camod-earbleed",
+			"statusDuration": "120",
 	    "pierceArmor": true,
             "speed": 6,
             "trailColor": "8EE1FFFF",
