@@ -1,6 +1,6 @@
 {    
     "type": "LogicBlock",
-    "name": "Ultra Micro Processor",
+    "name": "Ultra Processor",
     "health": 80,
     "size": 1,
     "range": 1024,
