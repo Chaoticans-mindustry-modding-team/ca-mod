@@ -4,6 +4,6 @@
 "requirements": ["copper/2", "lead/2"]
 "rotate": true
 "size": 1
-"name": "Shaped Sorter [stat]10[]"
+"name": Shaped Sorter 10
 "buildVisibility": shown
 "description": A sorter with a certain shape.
