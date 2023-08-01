@@ -1,4 +1,4 @@
-﻿{
+﻿
     "type": "ItemSource",
     "health": 40,
     "category": "distribution",
@@ -8,4 +8,3 @@
     "name": "Shaped Item Source",
     "buildVisibility": "shown",
     "description": "An item source with a certain shape."
-}
