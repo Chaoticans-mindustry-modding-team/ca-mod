@@ -1,4 +1,4 @@
-﻿{
+﻿
     "type": "Sorter",
     "health": 40,
     "category": "distribution",
@@ -8,4 +8,3 @@
     "name": "Shaped Sorter",
     "buildVisibility": "shown",
     "description": "A sorter with a certain shape."
-}
