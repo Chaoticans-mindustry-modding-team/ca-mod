@@ -1,9 +1,0 @@
-﻿"type": Sorter
-"health": 40
-"category": distribution
-"requirements": ["copper/2", "lead/2"]
-"rotate": true
-"size": 1
-"name": Shaped Sorter 23
-"buildVisibility": shown
-"description": A sorter with a certain shape.
