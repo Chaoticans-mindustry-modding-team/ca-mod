@@ -1,4 +1,8 @@
 ﻿"type": "ItemSource",
+"type": "ItemSource",
+"type": "ItemSource",
+"type": "ItemSource",
+"type": "ItemSource",
 "health": 40,
 "category": "distribution",
 "requirements": ["copper/2", "lead/2"],

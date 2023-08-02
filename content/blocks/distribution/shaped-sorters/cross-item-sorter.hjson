@@ -1,4 +1,8 @@
 ﻿"type": "Sorter",
+"type": "Sorter",
+"type": "Sorter",
+"type": "Sorter",
+"type": "Sorter",
 "health": 40,
 "category": "distribution",
 "requirements": ["copper/2", "lead/2"],
