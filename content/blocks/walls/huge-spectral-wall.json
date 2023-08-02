@@ -7,7 +7,7 @@
     "requirements": [
         "silicon/27",
         "metaglass/54",
-        "sandboxutilities-spectral/54"
+        "sandbox-utilities-spectral/54"
     ],
     "category": "defense",
     "research": {

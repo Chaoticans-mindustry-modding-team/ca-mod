@@ -8,7 +8,7 @@
     "requirements": [
         "copper/20",
         "graphite/20",
-        "sandboxutilities-green/20",
+        "sandbox-utilities-green/20",
         "silicon/8"
     ],
     "category": "logic",

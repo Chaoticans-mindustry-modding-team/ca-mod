@@ -6,12 +6,12 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/108",
-        "sandboxutilities-spectral/54",
-        "sandboxutilities-white/54",
-        "sandboxutilities-black/54",
-        "sandboxutilities-magenta/54",
-        "sandboxutilities-yellow/54",
-        "sandboxutilities-cyan/54"
+        "sandbox-utilities-spectral/54",
+        "sandbox-utilities-white/54",
+        "sandbox-utilities-black/54",
+        "sandbox-utilities-magenta/54",
+        "sandbox-utilities-yellow/54",
+        "sandbox-utilities-cyan/54"
     ],
     "category": "effect",
     "research": {

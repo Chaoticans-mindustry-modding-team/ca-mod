@@ -7,7 +7,7 @@
     "requirements": [
         "metaglass/10",
         "graphite/2",
-        "sandboxutilities-spectral/5"
+        "sandbox-utilities-spectral/5"
     ],
     "category": "logic",
     "research": {

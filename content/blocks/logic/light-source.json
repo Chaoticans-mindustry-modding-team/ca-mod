@@ -7,10 +7,11 @@
     "radius": 200,
     "buildVisibility": "lightingOnly",
     "requirements": [
-        "sandboxutilities-white/65536",
-        "silicon/65536",
-        "sandboxutilities-spectral/65536",
-        "metaglass/65536"
+        "sandbox-utilities-white/65535",
+        "silicon/65535",
+        "sandbox-utilities-spectral/65535",
+        "sandbox-utilities-invisible/65535",
+        "metaglass/65535"
     ],
     "category": "effect",
     "research": {

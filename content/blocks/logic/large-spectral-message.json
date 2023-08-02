@@ -8,7 +8,7 @@
     "requirements": [
         "metaglass/40",
         "graphite/10",
-        "sandboxutilities-spectral/20",
+        "sandbox-utilities-spectral/20",
         "silicon/4"
     ],
     "category": "logic",

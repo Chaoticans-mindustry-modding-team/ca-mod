@@ -3,17 +3,15 @@
     "name": "Pastel Wall",
     "health": 900,
     "size": 1,
-    "brightness": -10,
-    "radius": 10,
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/12",
-        "sandboxutilities-spectral/6",
-        "sandboxutilities-white/6",
-        "sandboxutilities-black/6",
-        "sandboxutilities-magenta/6",
-        "sandboxutilities-yellow/6",
-        "sandboxutilities-cyan/6"
+        "sandbox-utilities-spectral/6",
+        "sandbox-utilities-white/6",
+        "sandbox-utilities-black/6",
+        "sandbox-utilities-magenta/6",
+        "sandbox-utilities-yellow/6",
+        "sandbox-utilities-cyan/6"
     ],
     "category": "effect",
     "research": {

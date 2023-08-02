@@ -1,7 +1,7 @@
 {    
     "type": "MessageBlock",
     "name": "Infinite Message",
-    "descripion": "Can store an infinite amount of characters.\nSandbox only.",
+    "descripion": "Can store an infinite number of characters.",
     "health": 120,
     "size": 1,
     "maxNewlines": 65535,
@@ -10,7 +10,14 @@
     "requirements": [
      "graphite/150",
      "copper/150",
-     "silicon/100"
+     "silicon/100",
+     "sandbox-utilities-black/50",
+     "sandbox-utilities-white/50",
+     "sandbox-utilities-cyan/50",
+     "sandbox-utilities-magenta/50",
+     "sandbox-utilities-yellow/50",
+     "sandbox-utilities-spectral/50",
+     "sandbox-utilities-invisible/50"
     ],
     "category": "logic",
     "research": {

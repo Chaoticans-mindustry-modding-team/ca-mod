@@ -7,7 +7,7 @@
     "requirements": [
         "copper/5",
         "graphite/5",
-        "sandboxutilities-orange/5"
+        "sandbox-utilities-orange/5"
     ],
     "category": "logic",
     "research": {

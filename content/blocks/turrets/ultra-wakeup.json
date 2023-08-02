@@ -81,7 +81,7 @@
 	"rotateSpeed": 5,
     "ammoTypes": {
             "carbide": {
-            "status": "sandboxutilities-earbleed",
+            "status": "sandbox-utilities-earbleed",
 			"statusDuration": 7200,
             "speed": 10,
             "trailColor": "000080FF",
@@ -113,7 +113,7 @@
 		   "backColor": "000080FF"
             },
             "carbide": {
-            "status": "sandboxutilities-earbleed",
+            "status": "sandbox-utilities-earbleed",
 			"statusDuration": 7200,
 	    "pierceArmor": true,
             "speed": 6,

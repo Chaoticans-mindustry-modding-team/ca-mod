@@ -9,7 +9,7 @@
     "requirements": [
         "silicon/5",
         "metaglass/5",
-        "sandboxutilities-spectral/10"
+        "sandbox-utilities-spectral/10"
     ],
     "category": "effect",
     "research": {

@@ -6,7 +6,7 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/54",
-        "sandboxutilities-magenta/54"
+        "sandbox-utilities-magenta/54"
     ],
     "category": "defense",
     "research": {

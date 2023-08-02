@@ -6,7 +6,7 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/6",
-        "sandboxutilities-orange/6"
+        "sandbox-utilities-orange/6"
     ],
 
     "category": "defense",
