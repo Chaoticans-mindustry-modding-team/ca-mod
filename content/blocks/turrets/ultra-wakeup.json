@@ -19,7 +19,7 @@
      "type": "metal-pipe",
      "spread": 3,
      "barrels": 5,
-     "shots": 4,
+     "shots": 4
          },
     "drawer": {
     "type": "drawTurret",
@@ -34,7 +34,7 @@
          "mirror": false,
 	   "under": true,
          "progress": "recoil"
-         }
+         },
          {
          "type": "RegionPart",
          "suffix": "-blade-l",
@@ -44,7 +44,7 @@
          "mirror": false,
 		 "under": true,
          "progress": "recoil"
-         }
+         },
 	{
 	         "type": "RegionPart",
          "suffix": "-side-r",
@@ -54,7 +54,7 @@
          "mirror": false,
 	"under": true,
          "progress": "recoil"
-         }
+         },
          {
          "type": "RegionPart",
          "suffix": "-blade-r",
@@ -64,7 +64,7 @@
          "mirror": false,
 		 "under": true,
          "progress": "recoil"
-         }
+         },
          {
          "type": "RegionPart",
          "suffix": "-mid",
@@ -81,7 +81,7 @@
 	"rotateSpeed": 5,
     "ammoTypes": {
             "carbide": {
-            "status": "camod-earbleed",
+            "status": "sandboxutilities-earbleed",
 			"statusDuration": 7200,
             "speed": 10,
             "trailColor": "000080FF",
@@ -113,7 +113,7 @@
 		   "backColor": "000080FF"
             },
             "carbide": {
-            "status": "camod-earbleed",
+            "status": "sandboxutilities-earbleed",
 			"statusDuration": 7200,
 	    "pierceArmor": true,
             "speed": 6,
@@ -161,7 +161,7 @@
             },
 		   "frontColor": "fffffFF",
 		   "backColor": "8EE1FFFF"
-            },
+            }
     },
            
 	"requirements": [

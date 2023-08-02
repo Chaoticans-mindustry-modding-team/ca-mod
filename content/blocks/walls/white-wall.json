@@ -5,8 +5,8 @@
     "size": 1,
     "alwaysUnlocked": true,
     "requirements": [
-        "silicon/6"
-        "camod-white/6"
+        "silicon/6",
+        "sandboxutilities-white/6"
     ],
     "category": "defense",
     "research": {

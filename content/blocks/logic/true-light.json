@@ -9,7 +9,7 @@
     "requirements": [
         "silicon/5",
         "metaglass/5",
-        "camod-spectral/10"
+        "sandboxutilities-spectral/10"
     ],
     "category": "effect",
     "research": {

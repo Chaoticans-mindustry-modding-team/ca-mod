@@ -8,7 +8,7 @@
     "requirements": [
         "copper/20",
         "graphite/20",
-        "camod-magenta/20",
+        "sandboxutilities-magenta/20",
         "silicon/8"
     ],
     "category": "logic",

@@ -7,9 +7,9 @@
     "radius": 200,
     "buildVisibility": "lightingOnly",
     "requirements": [
-        "camod-white/65536",
+        "sandboxutilities-white/65536",
         "silicon/65536",
-        "camod-spectral/65536",
+        "sandboxutilities-spectral/65536",
         "metaglass/65536"
     ],
     "category": "effect",

@@ -2,6 +2,7 @@
 	"type": "Battery",
 	"category": "power",
 	"name": "Infinite Battery",
+	"description": "A battery that can stone infinite power.\nSandbox only.",
 	"buildVisibility": "sandboxOnly",
 	"size": 1,
 	"health": 1000,

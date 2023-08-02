@@ -6,7 +6,7 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/24",
-        "camod-black/48"
+        "sandboxutilities-black/48"
     ],
     "category": "defense",
     "research": {

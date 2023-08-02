@@ -1,14 +1,15 @@
 {    
     "type": "MessageBlock",
     "name": "Infinite Message",
+    "descripion": "Can store an infinite amount of characters.\nSandbox only.",
     "health": 120,
     "size": 1,
     "maxNewlines": 65535,
     "maxTextLength": 65535,
     "alwaysUnlocked": true,
     "requirements": [
-     "graphite/150"
-     "copper/150"
+     "graphite/150",
+     "copper/150",
      "silicon/100"
     ],
     "category": "logic",

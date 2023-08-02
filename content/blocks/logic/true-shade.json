@@ -6,8 +6,8 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/2",
-        "camod-black/5",
-        "camod-spectral/5"
+        "sandboxutilities-black/5",
+        "sandboxutilities-spectral/5"
     ],
     "category": "effect",
     "research": {

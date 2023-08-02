@@ -7,7 +7,7 @@
     "requirements": [
         "silicon/3",
         "metaglass/6",
-        "camod-spectral/6"
+        "sandboxutilities-spectral/6"
     ],
     "category": "defense",
     "research": {

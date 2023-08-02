@@ -1,6 +1,7 @@
 {    
     "type": "LogicBlock",
     "name": "Ultra Processor",
+    "description": "Executes many instructions per second.\nSandbox only.",
     "health": 80,
     "size": 1,
     "range": 1024,

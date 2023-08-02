@@ -8,12 +8,12 @@
     "alwaysUnlocked": true,
     "requirements": [
         "silicon/12",
-        "camod-spectral/6",
-        "camod-white/6",
-        "camod-black/6",
-        "camod-magenta/6",
-        "camod-yellow/6",
-        "camod-cyan/6"
+        "sandboxutilities-spectral/6",
+        "sandboxutilities-white/6",
+        "sandboxutilities-black/6",
+        "sandboxutilities-magenta/6",
+        "sandboxutilities-yellow/6",
+        "sandboxutilities-cyan/6"
     ],
     "category": "effect",
     "research": {

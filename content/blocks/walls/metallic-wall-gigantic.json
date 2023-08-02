@@ -5,7 +5,7 @@
     "size": 4,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/96"
+     "copper/96",
      "graphite/96"
     ],
     "category": "defense",

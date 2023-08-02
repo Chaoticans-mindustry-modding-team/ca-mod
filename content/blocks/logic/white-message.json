@@ -7,7 +7,7 @@
     "requirements": [
         "copper/5",
         "graphite/5",
-        "camod-white/5"
+        "sandboxutilities-white/5"
     ],
     "category": "logic",
     "research": {
