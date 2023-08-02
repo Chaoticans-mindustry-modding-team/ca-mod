@@ -1,6 +1,6 @@
 {
-    name: "camod",
-    repo: "Chaoticans-mindustry-modding-team/ca-mod",
+    name: "Sandbox utilities",
+    repo: "The4codeblocks/sandbox-utilities",
     minGameVersion: 144,
     version: "135",
     
