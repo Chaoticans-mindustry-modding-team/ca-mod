@@ -1,12 +1,12 @@
 {
-    name: "Sandbox utilities",
+    name: "sandbox-utilities",
     repo: "The4codeblocks/sandbox-utilities",
     minGameVersion: 144,
     version: "135",
     
-    displayName: "ca-mod",
-    author: "The Chaoticans",
-    subtitle:"EEEEEEEEEE",
+    displayName: "Sandbox Utilities",
+    author: "The Chaoticans + T4SC [Mass <=> Energy]",
+    subtitle: "Sandbox just got more fun",
     description:
 '''
 Aesthetics and convenience mod for roleplay and sandbox players;
