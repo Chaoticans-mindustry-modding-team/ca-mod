@@ -3,8 +3,7 @@
     "name": "Large Reinforced Msg",
     "health": 600,
     "size": 2,
-    "maxNewlines": 2000,
-    "maxTextLength": 22000,
+    "maxTextLength": 880,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"

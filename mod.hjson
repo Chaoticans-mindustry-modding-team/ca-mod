@@ -1,12 +1,12 @@
 {
     name: "camod",
-    repo: "quantum-brokengrammar/qw-mod",
+    repo: "Chaoticans-mindustry-modding-team/ca-mod",
     minGameVersion: 143,
-    version: "1",
+    version: "135",
     
-    displayName: "Quantum Well Sandbox Mod",
-    author: "Quantum Well",
-    subtitle: "A mod for QW, made for QW!",
+    displayName: "ca-mod",
+    author: "The chaoticans",
+    subtitle:"E",
     description:
 '''
 Mod for mindustry server                 
