@@ -1,5 +1,5 @@
 {
-    name: "qwmod",
+    name: "camod",
     repo: "quantum-brokengrammar/qw-mod",
     minGameVersion: 143,
     version: "1",
