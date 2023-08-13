@@ -3,8 +3,8 @@
     "name": "Colossal Msg",
     "health": 600,
     "size": 3,
-    "maxNewlines": 2000,
-    "maxTextLength": 22000,
+    "maxNewlines": 180,
+    "maxTextLength": 1980,
     "alwaysUnlocked": true,
     "requirements": [
      "graphite/50"
