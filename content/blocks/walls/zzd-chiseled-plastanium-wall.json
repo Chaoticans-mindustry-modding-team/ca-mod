@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Chissled Plastanium Wall",
+    "health": 600,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
