@@ -3,7 +3,7 @@
     "name": "Chissled Scrap Wall",
     "health": 600,
     "size": 2,
-  "varients": 4,
+  "variants": 4,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
