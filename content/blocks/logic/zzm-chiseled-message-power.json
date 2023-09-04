@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Power",
+    "name": "Chiseled Msg-Power",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
