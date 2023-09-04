@@ -1,0 +1,15 @@
+{    
+    "type": "Sorter",
+    "name": "Chiseled Sorter Eleven",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
