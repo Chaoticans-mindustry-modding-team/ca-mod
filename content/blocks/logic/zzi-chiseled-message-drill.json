@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Drill",
+    "name": "Chiseled Msg-Drill",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
