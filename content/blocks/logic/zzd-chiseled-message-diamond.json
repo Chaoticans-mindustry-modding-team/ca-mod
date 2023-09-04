@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Diamond",
+    "name": "Chiseled Msg-Diamond",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
