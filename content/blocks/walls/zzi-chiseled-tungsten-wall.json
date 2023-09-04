@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Tungsten Wall",
+    "name": "Chiseled Tungsten Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
