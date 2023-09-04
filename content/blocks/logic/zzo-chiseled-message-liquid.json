@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Liquid",
+    "name": "Chiseled Msg-Liquid",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
