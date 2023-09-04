@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Turret",
+    "name": "Chiseled Msg-Turret",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
