@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Reinforced Surge Wall",
+    "name": "Chiseled Reinforced Surge Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
