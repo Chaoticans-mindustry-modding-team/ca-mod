@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Beryllium Wall",
+    "name": "Chiseled Beryllium Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
