@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Phase Wall",
+    "name": "Chiseled Phase Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
