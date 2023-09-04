@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Rhombus",
+    "name": "Chiseled Msg-Rhombus",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
