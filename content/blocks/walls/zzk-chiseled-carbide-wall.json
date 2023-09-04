@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Carbide Wall",
+    "name": "Chiseled Carbide Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
