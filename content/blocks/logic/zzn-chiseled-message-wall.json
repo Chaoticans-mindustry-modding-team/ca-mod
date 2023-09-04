@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Wall",
+    "name": "Chiseled Msg-Wall",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
