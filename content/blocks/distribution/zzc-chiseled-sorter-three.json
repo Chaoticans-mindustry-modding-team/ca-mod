@@ -3,6 +3,7 @@
     "name": "Chiseled Sorter Three",
     "health": 600,
     "size": 1,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
