@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Plastanium Wall",
+    "name": "Chiseled Plastanium Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
