@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Square",
+    "name": "Chiseled Msg-Square",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
