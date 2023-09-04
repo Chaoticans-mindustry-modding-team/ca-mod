@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Chissled Copper Wall",
+    "name": "Chiseled Copper Wall",
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
