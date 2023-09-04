@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "Chissled Msg-Bar",
+    "name": "Chiseled Msg-Bar",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
