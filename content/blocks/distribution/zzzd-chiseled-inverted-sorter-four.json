@@ -1,0 +1,16 @@
+{    
+    "type": "Sorter",
+    "name": "Chiseled Inverted Sorter Four",
+    "health": 600,
+    "size": 1,
+    "invert": true,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
