@@ -6,7 +6,7 @@
     "shake": 2,
 	"top": true,
 	"size": 1,
-	"reload": 840,
+	"reload": 1680,
 	"range": 100,
     "shootY": 1,
     "shootSound": "wind.mp3",
