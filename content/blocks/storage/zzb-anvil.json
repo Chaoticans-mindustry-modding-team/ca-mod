@@ -3,6 +3,7 @@
     "name": "Anvil",
     "health": 600,
     "size": 1,
+    "hasShadow": true,
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
