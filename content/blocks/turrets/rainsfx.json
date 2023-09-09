@@ -6,7 +6,7 @@
     "shake": 2,
 	"top": true,
 	"size": 2,
-	"reload": 0,
+	"reload": 900,
 	"range": 100,
     "shootY": 1,
     "shootSound": "rain",
