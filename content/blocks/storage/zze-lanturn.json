@@ -6,6 +6,7 @@
     "rotate": true,
     "brightness": 1,
     "radius": 100,
+    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
