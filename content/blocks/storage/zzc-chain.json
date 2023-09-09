@@ -1,5 +1,5 @@
 {    
-    "type": "ShockMine",
+    "type": "Wall",
     "name": "Chain",
     "health": 600,
     "size": 1,
