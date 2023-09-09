@@ -9,7 +9,7 @@
 	"reload": 540,
 	"range": 100,
     "shootY": 1,
-    "shootSound": "storm.mp3",
+    "shootSound": "thunder.mp3",
 	 "recoil": 1,
 	 "coolantMultiplier": 0.84,
      "shootCone": 40,
