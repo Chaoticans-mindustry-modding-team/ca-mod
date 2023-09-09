@@ -5,6 +5,7 @@
     "size": 1,
     "brightness": 1,
     "radius": 100,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/6"
