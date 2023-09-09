@@ -31,7 +31,7 @@
   
 	"rotateSpeed": 5,
     "ammoTypes": {
-            "none": {
+            "copper": {
             "status": "none",
 			"statusDuration": "100",
             "speed": 0,
