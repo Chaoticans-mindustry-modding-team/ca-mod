@@ -7,7 +7,7 @@
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/1"
+     "metaglass/1"
     ],
     "category": "effect",
     "research": {
