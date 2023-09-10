@@ -1,6 +1,6 @@
 {    
     "type": "LiquidSource",
-    "name": "Cup",
+    "name": "Liquid Cup",
     "health": 600,
     "size": 1,
     "hasShadow": false,
