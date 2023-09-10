@@ -8,7 +8,7 @@
     "alwaysUnlocked": true,
     "requirements": [
      "camod-spectral/1",
-        "camod-light/1"
+        "camod-white/1"
     ],
     "category": "effect",
     "research": {
