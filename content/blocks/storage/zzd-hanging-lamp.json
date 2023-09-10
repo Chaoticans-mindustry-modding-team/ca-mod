@@ -9,7 +9,8 @@
     "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "tungsten/9",
+        "pyratite/1"
     ],
     "category": "effect",
     "research": {
