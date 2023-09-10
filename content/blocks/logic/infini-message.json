@@ -7,9 +7,8 @@
     "maxTextLength": 22000,
     "alwaysUnlocked": true,
     "requirements": [
-     "graphite/150"
-     "copper/150"
-     "silicon/100"
+     "graphite/5",
+     "copper/5"
     ],
     "category": "logic",
     "research": {
