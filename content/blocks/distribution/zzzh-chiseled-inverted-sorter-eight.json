@@ -7,7 +7,8 @@
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+        "copper/2",
+        "lead/2"
     ],
     "category": "distribution",
     "research": {
