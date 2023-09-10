@@ -5,7 +5,7 @@
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "tungsten/54",
+     "tungsten/18",
          "surge-alloy/54"
     ],
     "category": "defense",
