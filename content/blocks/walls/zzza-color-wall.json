@@ -7,7 +7,7 @@
     "buildVisibility": "shown",
     "blockGroup": "walls",
     "requirements": [
-        "copper/6"  
+     "spectral/24"
     ],
     "rotate": true,
     "category": "defense",
