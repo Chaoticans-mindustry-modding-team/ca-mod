@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Table Left",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
