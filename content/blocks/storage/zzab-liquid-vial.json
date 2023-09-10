@@ -1,0 +1,15 @@
+{
+    "type": "LiquidSource",
+    "name": "Liquid Vial",
+    "itemsPerSecond": 0,
+    "health": 600,
+    "size": 1,
+    "buildVisibility": "shown",
+    "blockGroup": "walls",
+    "requirements": [
+        "copper/6"  
+    ],
+    "rotate": true,
+    "category": "effect",
+    "research": {}
+}
