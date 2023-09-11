@@ -2,7 +2,7 @@
     "type": "Wall",
     "name": "Large Coal Wall",
     "health": 600,
-    "size": 1,
+    "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
      "coal/24"
