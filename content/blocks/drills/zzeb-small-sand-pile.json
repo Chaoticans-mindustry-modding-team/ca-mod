@@ -5,6 +5,7 @@
     "health": 600,
     "size": 1,
     "variants": 2,
+    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
      "sand/1"
