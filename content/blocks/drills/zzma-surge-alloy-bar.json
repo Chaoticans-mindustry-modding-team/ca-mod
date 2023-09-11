@@ -6,7 +6,7 @@
     "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
-     "surge alloy/1"
+     "surge-alloy/1"
     ],
     "category": "production",
     "research": {
