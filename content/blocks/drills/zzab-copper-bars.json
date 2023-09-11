@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Copper Bars",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/2"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

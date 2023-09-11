@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Metaglass Blocks",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "metaglass/2"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

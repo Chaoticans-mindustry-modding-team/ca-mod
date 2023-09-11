@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Copper Bar Stack",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/3"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

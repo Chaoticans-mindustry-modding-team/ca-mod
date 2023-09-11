@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Large Coal Wall",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "coal/24"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

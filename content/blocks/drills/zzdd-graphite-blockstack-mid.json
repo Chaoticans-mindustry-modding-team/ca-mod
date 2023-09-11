@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Graphite Block Stack",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "graphite/3"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

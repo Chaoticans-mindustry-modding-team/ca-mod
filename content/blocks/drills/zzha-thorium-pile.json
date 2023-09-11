@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Thorium Pile",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "thorium/3"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Lead Bar Stack",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "lead/3"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

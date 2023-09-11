@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Titanium Bars",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "titanium/2"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

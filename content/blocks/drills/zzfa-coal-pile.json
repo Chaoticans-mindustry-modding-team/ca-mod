@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Coal Pile",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "coal/3"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}

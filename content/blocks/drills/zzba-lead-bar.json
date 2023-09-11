@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Lead Bar",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "lead/1"
+    ],
+    "category": "drills",
+    "research": {
+    
+    }
+}
