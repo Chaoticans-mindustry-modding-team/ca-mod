@@ -3,6 +3,7 @@
     "name": "Metaglass Block Stack",
     "health": 600,
     "size": 1,
+    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
      "metaglass/3"
