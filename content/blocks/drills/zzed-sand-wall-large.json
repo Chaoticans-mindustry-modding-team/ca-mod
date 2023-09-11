@@ -3,7 +3,7 @@
     "name": "Large Sand Wall",
     "description": "t h e  p h a r a o h s  c u r s e",
     "health": 600,
-    "size": 1,
+    "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
      "sand/24"
