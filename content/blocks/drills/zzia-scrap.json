@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Scrap",
+    "health": 600,
+    "size": 1,
+    "variants": 4,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "scrap/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}
