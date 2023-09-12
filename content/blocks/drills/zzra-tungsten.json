@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Tungsten",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "tungsten/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}
