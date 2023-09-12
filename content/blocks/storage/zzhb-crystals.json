@@ -1,0 +1,19 @@
+{    
+    "type": "LightBlock",
+    "name": "Crystals",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "brightness": 1,
+    "radius": 65,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "metaglass/3",
+    
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
