@@ -1,0 +1,31 @@
+{
+  "type": "UnitFactory",
+  "size": 3,
+  "name": "Crimson Source",
+  "consumes": {
+
+  },
+  "plans": [
+    {
+      "unit": "renale",
+      "requirements": [
+    
+      ],
+      "time": 0
+    }
+    {
+      "unit": "latum",
+      "requirements": [
+    
+      ],
+      "time": 0
+    }
+  ],
+  "requirements": [
+   "camod-red/120"
+  ],
+  "category": "units",
+  "research": {
+ 
+  }
+}
