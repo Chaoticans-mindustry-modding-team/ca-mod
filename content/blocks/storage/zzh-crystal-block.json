@@ -3,7 +3,6 @@
     "name": "Crystal Block",
     "health": 600,
     "size": 1,
-    "rotate": true,
     "brightness": 1,
     "radius": 65,
     "variants": 3,
