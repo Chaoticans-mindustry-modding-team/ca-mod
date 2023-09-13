@@ -1,5 +1,5 @@
 {
-  "type": "UnitFactory",
+  "type": "PayloadSource",
   "size": 5,
   "name": "Crimson Source",
   "consumes": {
