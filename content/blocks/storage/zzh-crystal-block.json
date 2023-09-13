@@ -5,7 +5,7 @@
     "size": 1,
     "variants": 3,
     "brightness": 1,
-    "radius": 65,
+    "radius": 10,
     "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
