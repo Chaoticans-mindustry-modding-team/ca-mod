@@ -6,6 +6,7 @@
     "rotate": true,
     "brightness": 1,
     "radius": 65,
+    "varients": 3,
     "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
