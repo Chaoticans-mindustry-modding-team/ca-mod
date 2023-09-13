@@ -1,5 +1,5 @@
 {
-  "type": "PayloadSource",
+  "type": "UnitFactory",
   "size": 5,
   "name": "Crimson Source",
   "consumes": {
@@ -9,16 +9,16 @@
     {
       "unit": "renale",
       "requirements": [
-    
+      
       ],
-      "time": 0
+      "time": 0.1
     }
     {
       "unit": "latum",
       "requirements": [
-    
+      
       ],
-      "time": 0
+      "time": 0.1
     }
   ],
   "requirements": [
