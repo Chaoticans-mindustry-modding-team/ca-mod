@@ -10,7 +10,7 @@
 	"size": 100,
 	"canDrown": "false",
         "mineSpeed": 6,
-        "buildSpeed": 0,
+        "buildSpeed": 1,
 	"canBuild": true,
         "mineTier": 0,
         "itemCapacity": 50,
