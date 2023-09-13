@@ -11,7 +11,7 @@
 	"canDrown": "false",
         "mineSpeed": 6,
         "buildSpeed": 0,
-	"canBuild": false,
+	"canBuild": true,
         "mineTier": 0,
         "itemCapacity": 50,
 	"armor": 0,
