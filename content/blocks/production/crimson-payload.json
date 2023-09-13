@@ -9,16 +9,22 @@
     {
       "unit": "renale",
       "requirements": [
-      
+      {  
+      "item": "red",
+      "amount": 1
+      }
       ],
-      "time": 0.1
+      "time": 1
     }
     {
       "unit": "latum",
       "requirements": [
-      
+       {  
+      "item": "red",
+      "amount": 1
+      }
       ],
-      "time": 0.1
+      "time": 1
     }
   ],
   "requirements": [
