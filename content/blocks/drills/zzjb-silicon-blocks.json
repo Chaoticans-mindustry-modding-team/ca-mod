@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Silicon Blocks",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "silicon/2"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Titanium Bars",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "titanium/2"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

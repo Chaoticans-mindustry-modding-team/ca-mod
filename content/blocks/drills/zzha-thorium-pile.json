@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Thorium Pile",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "thorium/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

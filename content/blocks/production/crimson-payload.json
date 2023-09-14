@@ -1,0 +1,38 @@
+{
+  "type": "UnitFactory",
+  "size": 5,
+  "name": "Crimson Source",
+  "consumes": {
+
+  },
+  "plans": [
+    {
+      "unit": "renale",
+      "requirements": [
+      {  
+      "item": "red",
+      "amount": 1
+      }
+      ],
+      "time": 1
+    }
+    {
+      "unit": "latum",
+      "requirements": [
+       {  
+      "item": "red",
+      "amount": 1
+      }
+      ],
+      "time": 1
+    }
+  ],
+  "requirements": [
+   "camod-red/120"
+  ],
+  "category": "units",
+  "description": "sorry but this block can only be activated with logic currently as the latum tree is hard coded to not be selectable",
+  "research": {
+ 
+  }
+}

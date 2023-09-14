@@ -1,0 +1,19 @@
+{    
+    "type": "LightBlock",
+    "name": "Lanturn",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "brightness": 1,
+    "radius": 65,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "tungsten/8",
+        "pyratite/1"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

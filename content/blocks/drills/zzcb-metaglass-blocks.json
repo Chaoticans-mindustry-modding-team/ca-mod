@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Metaglass Blocks",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "metaglass/2"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

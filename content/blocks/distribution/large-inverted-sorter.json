@@ -6,7 +6,8 @@
     "invert": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "copper/3",
+        "lead/3"
     ],
     "category": "distribution",
     "research": {

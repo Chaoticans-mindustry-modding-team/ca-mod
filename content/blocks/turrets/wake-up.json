@@ -161,11 +161,7 @@
             },
     },
            
-	"requirements": [
-        "copper/30"
-        
-      
-	],
+	"requirements": [],
 	"category": "turret",
 	"research": {
        

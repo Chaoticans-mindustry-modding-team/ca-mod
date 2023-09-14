@@ -1,0 +1,16 @@
+{
+    "type": "LiquidSource",
+    "name": "Liquid Vial",
+    "itemsPerSecond": 0,
+    "health": 600,
+    "size": 1,
+    "buildVisibility": "shown",
+    "blockGroup": "walls",
+    "requirements": [
+        "tungsten/2",
+        "metaglass/1"
+    ],
+    "rotate": true,
+    "category": "effect",
+    "research": {}
+}

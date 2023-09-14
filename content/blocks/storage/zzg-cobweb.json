@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Cobweb",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "camod-spectral/3"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

@@ -7,8 +7,9 @@
     "maxTextLength": 22000,
     "alwaysUnlocked": true,
     "requirements": [
-     "graphite/50"
-     "copper/50"
+     "graphite/10",
+     "copper/10",
+        "camod-dark-green/3"
     ],
     "category": "logic",
     "research": {

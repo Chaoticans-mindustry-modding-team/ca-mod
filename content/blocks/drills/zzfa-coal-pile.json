@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Coal Pile",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "coal/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

@@ -5,7 +5,8 @@
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "carbide/54",
+         "thorium/54"
     ],
     "category": "defense",
     "research": {

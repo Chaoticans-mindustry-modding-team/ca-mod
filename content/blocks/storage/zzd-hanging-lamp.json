@@ -1,0 +1,19 @@
+{    
+    "type": "LightBlock",
+    "name": "Hanging Lamp",
+    "health": 600,
+    "size": 1,
+    "brightness": 1,
+    "radius": 65,
+    "rotate": true,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "tungsten/9",
+        "pyratite/1"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}

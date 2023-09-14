@@ -7,7 +7,7 @@
     "radius": 0,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "camod-spectral/6"
     ],
     "category": "effect",
     "research": {

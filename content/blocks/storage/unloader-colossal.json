@@ -5,7 +5,8 @@
     "size": 3,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/6"
+     "titanium/50",
+        "silicon/60"
     ],
     "category": "effect",
     "research": {

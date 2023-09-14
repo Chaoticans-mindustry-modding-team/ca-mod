@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Anvil",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+        "tungsten/10"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
