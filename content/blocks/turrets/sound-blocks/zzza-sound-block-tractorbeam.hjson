@@ -1,0 +1,23 @@
+﻿"type": "powerTurret",
+"type": "powerTurret",
+"type": "powerTurret",
+"type": "powerTurret",
+"type": "powerTurret",
+"health": 40,
+"name": "Sound Block \"tractorbeam\"",
+"description": "Makes a certain noise.",
+"alwaysUnlocked": true,
+"top": true,
+"size": 1,
+"reload": 1,
+"range": 0,
+"shootType": {collides: false}
+"shootSound": "tractorbeam",
+"shootWarmupSpeed": 0,
+"rotateSpeed": 5,       
+"requirements": [
+    "silicon/40",
+    "copper/20"
+],
+"rotate": true,
+"category": "logic"
