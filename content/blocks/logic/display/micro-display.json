@@ -1,0 +1,17 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Micro Display",
+    "health": 600,
+    "size": 1,
+    "displaySize": 22,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "lead/20",
+     "silicon/12",
+     "metaglass/12"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

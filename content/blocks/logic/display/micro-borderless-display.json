@@ -1,0 +1,16 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Micro Borderless Display",
+    "health": 300,
+    "size": 1,
+    "displaySize": 22,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "silicon/12",
+     "metaglass/12"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

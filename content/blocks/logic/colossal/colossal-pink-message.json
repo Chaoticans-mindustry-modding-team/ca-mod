@@ -1,0 +1,18 @@
+{    
+    "type": "MessageBlock",
+    "name": "Colossal Pink Msg",
+    "health": 600,
+    "size": 3,
+    "maxNewlines": 2000,
+    "maxTextLength": 22000,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "graphite/10",
+     "copper/10",
+        "camod-pink/3"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
