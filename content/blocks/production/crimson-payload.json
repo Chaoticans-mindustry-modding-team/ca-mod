@@ -31,7 +31,7 @@
    "camod-red/120"
   ],
   "category": "units",
-  "description": "sorry but this block can only be activated with logic currently as the latum tree is hard coded to not be selectable",
+  "description": "Creates renale and latum.",
   "research": {
  
   }
