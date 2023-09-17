@@ -2,11 +2,11 @@
     "type": "Wall",
     "name": "Dice",
     "health": 600,
-    "size": 2,
+    "size": 1,
   "variants": 7,
     "alwaysUnlocked": true,
     "requirements": [
-     "scrap/24"
+     "metaglass/6"
     ],
     "category": "effect",
     "research": {
