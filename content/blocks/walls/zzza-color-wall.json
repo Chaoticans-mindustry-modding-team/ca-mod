@@ -9,7 +9,6 @@
     "requirements": [
      "spectral/24"
     ],
-    "rotate": true,
     "category": "defense",
     "research": {}
 }
