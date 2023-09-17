@@ -1,0 +1,12 @@
+{    
+    "type": "LiquidSource",
+    "name": "Large Liquid Source",
+    "health": 600,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "liquid",
+    "research": {
+    
+    }
+}
