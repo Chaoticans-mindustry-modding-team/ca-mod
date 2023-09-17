@@ -1,5 +1,5 @@
 # ca-mod
-Roleplay mod
+The purpose of this mod is to expand roleplays, add QoL (Quality of Life) changes, and to improve the sandbox experience.
 ## Features
 - More walls!
 - Roleplaying blocks like lanterns, chains, cups, vials, cobweb, anvils, and crystals!
@@ -10,7 +10,7 @@ Roleplay mod
 - Larger blocks!
 - Ultra micro processor!
 - Items as blocks!
-- Latum/Renale spawner!
+- Latum/Renale spawner! (no need logic blocks)
 - Bigger canvases!
 - Borderless blocks!
 - Colored blocks!
