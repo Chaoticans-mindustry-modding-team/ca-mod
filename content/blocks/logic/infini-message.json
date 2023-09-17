@@ -1,6 +1,6 @@
 {    
     "type": "MessageBlock",
-    "name": "chissled msg-infinity",
+    "name": "Infinite Message",
     "health": 600,
     "size": 1,
     "maxNewlines": 2000,
