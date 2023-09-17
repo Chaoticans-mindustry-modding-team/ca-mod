@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "name": "Thorium Block",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "thorium/6"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

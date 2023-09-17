@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Beryllium",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "beryllium/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

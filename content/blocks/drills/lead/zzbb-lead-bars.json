@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Lead Bars",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "lead/2"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

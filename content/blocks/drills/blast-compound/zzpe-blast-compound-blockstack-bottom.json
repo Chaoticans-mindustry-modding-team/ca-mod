@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Blast Compound Block Stack",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "blast-compound/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

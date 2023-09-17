@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Pyratite Block Stack",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "pyratite/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

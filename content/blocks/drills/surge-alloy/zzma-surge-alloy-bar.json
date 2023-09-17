@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Surge Alloy Bar",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "surge-alloy/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

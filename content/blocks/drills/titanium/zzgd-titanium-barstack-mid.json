@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Titanium Bar Stack",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "titanium/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Plastanium Block",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "plastanium/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

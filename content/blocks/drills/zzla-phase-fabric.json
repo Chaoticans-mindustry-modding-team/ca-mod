@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Phase Fabric",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "phase-fabric/1"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}

@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Sand Pile",
+    "description": "t h e  p h a r a o h s  c u r s e",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "sand/3"
+    ],
+    "category": "production",
+    "research": {
+    
+    }
+}
