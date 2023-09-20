@@ -12,6 +12,7 @@
     "phase-fabric/80",
     "surge-alloy/30"
   ],
-  "researchCostMultiplier": 1.5
-  "parent": 
+  "researchCostMultiplier": 1.5,
+  "parent": "memory-bank"
+
 }
