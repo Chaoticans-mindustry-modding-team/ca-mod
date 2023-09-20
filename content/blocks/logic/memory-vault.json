@@ -1,6 +1,6 @@
 {
   "name": "Memory Vault",
-  "description" "Uses electrical currents to store information for a logic processor. Collosal capacity.",
+  "description": "Uses electrical currents to store information for a logic processor. Collosal capacity.",
   "type": "memoryBlock"
   "health": 1200,
   "memoryCapacity": 4096,
