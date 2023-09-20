@@ -1,7 +1,7 @@
 {
+  "type": "MemoryBlock"
   "name": "Memory Vault",
   "description": "Uses electrical currents to store information for a logic processor. Collosal capacity.",
-  "type": "memoryBlock"
   "health": 1200,
   "memoryCapacity": 4096,
   "size": 3,
@@ -13,6 +13,8 @@
     "surge-alloy/30"
   ],
   "researchCostMultiplier": 1.5,
+  "research": {
   "parent": "memory-bank"
+  }
 
 }
