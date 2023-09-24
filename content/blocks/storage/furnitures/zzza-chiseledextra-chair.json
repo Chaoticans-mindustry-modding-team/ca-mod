@@ -1,1 +1,16 @@
 
+{
+    "type": "ItemSource",
+    "name": "ChiseledExtra Sorter Chair",
+    "itemsPerSecond": 0,
+    "health": 600,
+    "size": 1,
+    "buildVisibility": "shown",
+    "blockGroup": "walls",
+    "requirements": [
+     "spectral/24"
+    ],
+    "rotate": true,
+    "category": "effect",
+    "research": {}
+}
