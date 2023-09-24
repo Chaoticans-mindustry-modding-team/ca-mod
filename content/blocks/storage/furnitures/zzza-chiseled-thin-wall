@@ -1,0 +1,15 @@
+{
+    "type": "Wall",
+    "name": "Chiseled Thin Wall",
+    "itemsPerSecond": 0,
+    "health": 600,
+    "size": 1,
+    "buildVisibility": "shown",
+    "blockGroup": "walls",
+    "requirements": [
+     "copper/3"
+    ],
+    "rotate": true,
+    "category": "effect",
+    "research": {}
+}
