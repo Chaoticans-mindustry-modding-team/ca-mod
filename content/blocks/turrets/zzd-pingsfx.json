@@ -9,7 +9,7 @@
 	"reload": 500,
 	"range": 100,
     "shootY": 1,
-    "shootSound": "ping.mp3",
+    "shootSound": "ping",
 	 "recoil": 1,
 	 "coolantMultiplier": 0.84,
      "shootCone": 40,
