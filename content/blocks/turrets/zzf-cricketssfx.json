@@ -9,7 +9,7 @@
 	"reload": 60,
 	"range": 100,
     "shootY": 1,
-    "shootSound": "cricketssfx",
+    "shootSound": "crickets",
 	 "recoil": 1,
 	 "coolantMultiplier": 0.84,
      "shootCone": 40,
