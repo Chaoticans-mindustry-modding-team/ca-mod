@@ -6,7 +6,7 @@
     "shake": 2,
 	"top": true,
 	"size": 1,
-	"reload": 60,
+	"reload": 30,
 	"range": 100,
     "shootY": 1,
     "shootSound": "ping",
