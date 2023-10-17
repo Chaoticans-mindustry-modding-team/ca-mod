@@ -3,7 +3,7 @@
     "name": "Pumpkin",
     "health": 300,
     "size": 2,
-    "hasShadow": true,
+    "hasShadow": false,
     "rotate": false,
     "alwaysUnlocked": true,
     "requirements": [
