@@ -2,7 +2,7 @@
     "type": "Wall",
     "name": "Pumpkin",
     "health": 300,
-    "size": 1,
+    "size": 2,
     "hasShadow": true,
     "rotate": false,
     "alwaysUnlocked": true,
