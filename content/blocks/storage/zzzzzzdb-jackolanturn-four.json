@@ -1,0 +1,17 @@
+{    
+    "type": "LightBlock",
+    "name": "Jack O'Lanturn",
+    "health": 600,
+    "size": 1,
+    "brightness": 1,
+    "radius": 65,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "camod-orange/8",
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
