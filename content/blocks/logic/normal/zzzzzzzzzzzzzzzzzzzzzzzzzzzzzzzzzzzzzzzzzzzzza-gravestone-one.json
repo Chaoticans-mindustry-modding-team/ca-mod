@@ -7,7 +7,6 @@
     "maxTextLength": 22000,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/5",
        "tungsten/6"
     ],
     "category": "logic",
