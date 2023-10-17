@@ -15,7 +15,9 @@
      "inaccuracy": 2,
      "shoot": {
      "type": "RepairBeamWeopon",
-     "spread": 0,
+     "sound": "none",
+     "spread": 5,
+     "length": 0,
      "barrels": 1,
      "shots": 1,
          },
