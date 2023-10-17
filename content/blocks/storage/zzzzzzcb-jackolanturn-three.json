@@ -2,7 +2,7 @@
     "type": "LightBlock",
     "name": "Jack O'Lanturn",
     "health": 600,
-    "size": 1,
+    "size": 2,
     "brightness": 8,
     "radius": 145,
     "hasShadow": false,
