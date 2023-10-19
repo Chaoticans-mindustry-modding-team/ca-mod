@@ -1,0 +1,16 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Borderless Display",
+    "health": 400,
+    "size": 3,
+    "displaySize": 92,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "silicon/50",
+     "metaglass/50"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

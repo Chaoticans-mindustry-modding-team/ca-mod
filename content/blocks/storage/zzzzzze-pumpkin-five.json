@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Pumpkin",
+    "health": 300,
+    "size": 2,
+    "hasShadow": false,
+    "rotate": false,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "camod-orange/6"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
