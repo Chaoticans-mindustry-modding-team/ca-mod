@@ -2,7 +2,7 @@
     "type": "CanvasBlock",
     "name": "Large 24canvas",
     "health": 600,
-    "size": 1,
+    "size": 2,
     "canvasSize": 24,
     "alwaysUnlocked": true,
     "requirements": [
