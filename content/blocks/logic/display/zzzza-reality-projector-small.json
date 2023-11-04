@@ -1,6 +1,6 @@
 {    
     "type": "LogicDisplay",
-    "name": "Reality Projector Small",
+    "name": "Small Reality Display",
     "health": 100,
     "size": 1,
     "displaySize": 96,
