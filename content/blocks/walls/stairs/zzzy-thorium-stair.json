@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Thorium Stair",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "thorium/4"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
