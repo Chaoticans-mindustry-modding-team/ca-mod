@@ -7,7 +7,7 @@
     "hasShadow": false,
     "requirements": [
      "tungsten/1"
-     "surge/3"
+     "surge-alloy/3"
     ],
     "category": "defense",
     "research": {
