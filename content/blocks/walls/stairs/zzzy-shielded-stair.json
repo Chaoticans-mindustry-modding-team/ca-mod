@@ -7,7 +7,7 @@
     "alwaysUnlocked": true,
     "hasShadow": false,
     "requirements": [
-     "phase/4"
+     "phase-fabric/4"
     ],
     "category": "defense",
     "research": {
