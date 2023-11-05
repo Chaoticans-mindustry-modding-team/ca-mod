@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Carbide Slab",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "carbide/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
