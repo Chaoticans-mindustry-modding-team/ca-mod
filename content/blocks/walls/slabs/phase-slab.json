@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Phase Slab",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "chanceDeflect": 10,
+    "flashHit": true,
+    "requirements": [
+     "phase-fabric/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
