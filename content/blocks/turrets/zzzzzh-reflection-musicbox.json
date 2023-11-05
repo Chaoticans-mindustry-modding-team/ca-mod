@@ -5,7 +5,7 @@
 	"alwaysUnlocked": true,
     "shake": 2,
 	"top": true,
-	"size": 1,
+	"size": 2,
 	"reload": 60,
 	"range": 100,
     "shootY": 1,
