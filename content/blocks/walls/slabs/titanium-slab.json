@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Titanium Slab",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "titanium/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
