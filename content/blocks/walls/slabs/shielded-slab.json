@@ -1,0 +1,15 @@
+{    
+    "type": "Wall",
+    "name": "Shielded Slab",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "phase-fabric/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
