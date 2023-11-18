@@ -4,7 +4,7 @@
   "details": "v5 glaive anyone?",
         "research": {
 			"requirements": [
-			"coreshard/3"
+			"copper/3"
 			],
 			"parent": "gamma"
 		},
