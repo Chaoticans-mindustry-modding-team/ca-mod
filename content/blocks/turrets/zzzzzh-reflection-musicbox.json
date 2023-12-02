@@ -6,7 +6,7 @@
     "shake": 2,
 	"top": true,
 	"size": 2,
-	"reload": 60,
+	"reload": 2400,
 	"range": 100,
     "shootY": 1,
     "shootSound": "reflection",
