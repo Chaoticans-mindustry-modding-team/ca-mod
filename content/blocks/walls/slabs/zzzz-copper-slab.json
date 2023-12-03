@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Copper Slab",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "copper/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

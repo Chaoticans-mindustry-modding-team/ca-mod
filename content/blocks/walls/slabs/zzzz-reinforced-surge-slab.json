@@ -1,0 +1,17 @@
+{    
+    "type": "Wall",
+    "name": "Reinforced Surge Slab",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "tungsten/1"
+     "surge-alloy/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

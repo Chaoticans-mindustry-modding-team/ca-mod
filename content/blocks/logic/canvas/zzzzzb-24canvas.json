@@ -1,6 +1,6 @@
 {    
     "type": "CanvasBlock",
-    "name": "24canvas",
+    "name": "Small 24canvas",
     "health": 600,
     "size": 1,
     "canvasSize": 24,
