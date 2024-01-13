@@ -1,19 +1,27 @@
-{
-    name: "camod",
-    repo: "Chaoticans-mindustry-modding-team/ca-mod",
-    minGameVersion: 143,
-    version: "135",
-    
-    displayName: "ca-mod",
-    author: "The Chaoticans",
-    subtitle: "Always check if updated!",
-    description:
-'''
-Mod for RPs
+name: camod
+displayName: "QW Mod"
+subtitle: "First version released!"
+description: "Mod for the rping server,
+QW.
 
-Adds a shitload of stuff.
-'''
-    hideBrowser: false,
-    hidden: true,
-    dependencies: []
-}
+Adds a shitload of stuff, focused towards
+improving the rp experience."
+author: "[#f]bloop[gray]
+- Original mod creator
+[lightgray]iris[]
+- Contributor of original mod
+[#f]qua[#d]nt[#b]um[][][]
+- Contributor of original mod
+- QW owner
+T[blue]4[yellow]S[][]C
+- Contributor of original mod
+[#0]Nameless[]
+- Contributor
+- Made me debloat
+[#0050ff]GMug.[]
+- Main developer"
+repo: "GMugXD/qw-mod"
+minGameVersion: 143
+version: 69420
+hideBrowser: false
+hidden: true
