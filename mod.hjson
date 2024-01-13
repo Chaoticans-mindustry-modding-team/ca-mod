@@ -5,11 +5,13 @@
     version: "135",
     
     displayName: "ca-mod",
-    author: "The chaoticans",
-    subtitle: "Boo! Happy Halloween!",
+    author: "The Chaoticans",
+    subtitle: "Always check if updated!",
     description:
 '''
-Mod for mindustry server                 
+Mod for RPs
+
+Adds a shitload of stuff.
 '''
     hideBrowser: false,
     hidden: true,

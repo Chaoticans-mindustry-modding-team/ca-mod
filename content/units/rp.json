@@ -2,10 +2,10 @@
         "type": "flying",
 	"speed": 10,
 	"rotate": true,
-	"name": "The Rp Glider",
+	"name": "Flea",
 	"outlineColor": "41445500",
 	"hitSize": 1,
-	"health": 230000,
+	"health": 1000000000000,
 	"dammage": 200,
 	"size": 100,
 	"canDrown": "false",
@@ -32,8 +32,11 @@
 	"immunities": [
         "freezing",
 	],
-	"weapons": [
- 
+"weapons": [
+	    {
+  "name": "rp-gun",
+"range": 1000
+ },
     ],
     "abilities": [
    

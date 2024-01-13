@@ -1,0 +1,13 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Micro Projector",
+    "health": 100,
+    "size": 1,
+    "displaySize": 96,
+    "requirements": [
+        "metaglass/50",
+        "camod-green/25"
+    
+    ],
+    "category": "logic"
+}

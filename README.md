@@ -1,22 +1,19 @@
 # ca-mod
-The purpose of this mod is to expand roleplays, add QoL (Quality of Life) changes, and to improve the sandbox experience.
+The purpose of this mod is to expand the sandbox content, adding a shitload for RPs.
 ## Features
-- More walls!
-- Roleplaying blocks like lanterns, chains, cups, vials, cobweb, anvils, and crystals!
-- Infinite messages!
-- Customizable sorter walls!
-- Chiseled and decorated blocks!
-- Spectral blocks!
-- Larger blocks!
-- Ultra micro processor!
-- Items as blocks!
-- Latum/Renale spawner! (no need logic blocks)
-- Bigger canvases!
-- Borderless blocks!
-- Colored blocks!
-- Smaller blocks!
-- 32x32 Canvas! (replicanvas)
+- More walls
+- Blocks for detailing
+- Infinite messages
+- Customizable sorter walls
+- Chiseled stuff
+- Spectral blocks
+- Larger blocks
+- Omega processor & Omega memory cell
+- Revamped canvases
+- Borderless blocks
+- Colored blocks
+- Smaller blocks
 - Reality projector!
-- Sound blocks!
-- Infinite bridges!
-- Borderless liquid container! (can be used to add gradients)
+- Sound blocks
+- Infinite bridges
+- Borderless liquid container (can be used to add gradients)
