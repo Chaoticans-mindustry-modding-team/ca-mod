@@ -1,0 +1,12 @@
+{    
+    "type": "Unloader",
+    "name": "Large Item Source",
+    "health": 600,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

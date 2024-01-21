@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Metallic Slab",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "tungsten/3"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}

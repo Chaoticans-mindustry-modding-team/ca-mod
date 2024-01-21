@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Metallic Stair",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "hasShadow": false,
+    "requirements": [
+     "tungsten/4"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
+}
