@@ -1,11 +1,9 @@
 name: camod
 displayName: "QW Mod"
-subtitle: "First version released!"
-description: "Mod for the rping server,
-QW.
+subtitle: "V2 soon"
+description: "Mod for QW.
 
-Adds a shitload of stuff, focused towards
-improving the rp experience."
+Focused on improving the rp experience."
 author: "[#f]bloop[gray]
 - Original mod creator
 [lightgray]iris[]
@@ -19,7 +17,11 @@ T[blue]4[yellow]S[][]C
 - Contributor
 - Made me debloat
 [#0050ff]GMug.[]
-- Main developer"
+- Main developer
+[stat]HanLarence[]
+- Spriter
+[#f]Exinet[]
+- Spriter"
 repo: "GMugXD/qw-mod"
 minGameVersion: 143
 version: 69420

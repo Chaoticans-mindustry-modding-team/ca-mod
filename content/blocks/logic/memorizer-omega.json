@@ -1,6 +1,6 @@
 {    
     "type": "MemoryBlock",
-    "name": "Omega Memorizer",
+    "name": "Omega Memory Cell",
     "health": 600,
     "size": 1,
     "memoryCapacity": 2048,
