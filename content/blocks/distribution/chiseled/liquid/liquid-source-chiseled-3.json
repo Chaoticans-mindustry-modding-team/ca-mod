@@ -1,0 +1,15 @@
+{    
+    "type": "LiquidSource",
+    "name": "Chiseled Liquid Source 3",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "rotate": true,
+    "requirements": [
+     
+    ],
+    "category": "liquid",
+    "research": {
+    
+    }
+}
