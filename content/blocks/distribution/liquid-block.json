@@ -1,6 +1,6 @@
 {    
     "type": "LiquidRouter",
-    "name": "Liquid",
+    "name": "Borderless Liquid Router",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,

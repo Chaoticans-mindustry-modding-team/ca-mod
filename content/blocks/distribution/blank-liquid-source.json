@@ -1,6 +1,6 @@
 {    
     "type": "LiquidSource",
-    "name": "Liquid Source",
+    "name": "Borderless Liquid Source",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,

@@ -5,7 +5,6 @@
     "size": 1,
     "rotate": true,
     "alwaysUnlocked": true,
-    "hasShadow": false,
     "requirements": [
      "tungsten/3"
     ],

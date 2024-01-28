@@ -48,7 +48,7 @@
     "bullet": {
     "type": "LightningBulletType",
     "lightningLength": 100,
-    "range": 750,
+    "range": 50,
     "width": 40,
     "speed": 20,
     "damage": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
@@ -89,7 +89,7 @@
     "shootSound": "bolt",
     "bullet": {
     "type": "LightningBulletType",
-    "lightningLength": 750,
+    "lightningLength": 75,
     "length": 10,
     "width": 40,
     "speed": 100,
