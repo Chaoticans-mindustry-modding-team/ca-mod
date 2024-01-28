@@ -1,0 +1,13 @@
+{    
+    "type": "ItemSource",
+    "name": "Item Antivoid",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
