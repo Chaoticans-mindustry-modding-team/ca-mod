@@ -1,12 +1,16 @@
 {    
     "type": "Wall",
-    "name": "Magenta Wall",
+    "name": "Centered Plastanium Slab",
     "health": 600,
     "size": 1,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-pink/6"
+     "plastanium/3"
     ],
+    "insulated": true,
+    "absorbLasers": true,
+    "schematicPriority": 10,
     "category": "defense",
     "research": {
     

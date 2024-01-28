@@ -1,13 +1,15 @@
 {    
     "type": "Wall",
-    "name": "Magenta Wall",
+    "name": "Angled Chain 3",
     "health": 600,
     "size": 1,
+    "hasShadow": false,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-pink/6"
+     "tungsten/3"
     ],
-    "category": "defense",
+    "category": "effect",
     "research": {
     
     }

@@ -1,11 +1,14 @@
 {    
     "type": "Wall",
-    "name": "Magenta Wall",
+    "name": "Huge Plastanium Wall",
     "health": 600,
-    "size": 1,
+    "size": 3,
+    "insulated": true,
+    "absorbLasers": true,
+    "schematicPriority": 10,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-pink/6"
+     "plastanium/54"
     ],
     "category": "defense",
     "research": {

@@ -1,11 +1,11 @@
 {    
     "type": "Wall",
-    "name": "Large Maroon Wall",
-    "health": 2400,
+    "name": "Large Blue Wall",
+    "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-red/24"
+     "camod-black/6"
     ],
     "category": "defense",
     "research": {

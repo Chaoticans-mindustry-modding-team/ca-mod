@@ -1,11 +1,12 @@
 {    
     "type": "Wall",
-    "name": "Large Maroon Wall",
-    "health": 2400,
-    "size": 2,
+    "name": "Centered Tungsten Slab",
+    "health": 600,
+    "size": 1,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-     "camod-red/24"
+     "tungsten/3"
     ],
     "category": "defense",
     "research": {
