@@ -1,6 +1,6 @@
 name: camod
 displayName: "QW Mod"
-subtitle: "V2 soon"
+subtitle: "the gaming is real"
 description: "Mod for QW.
 
 Focused on improving the rp experience."
@@ -22,6 +22,13 @@ T[blue]4[yellow]S[][]C
 - Spriter
 [#f]Exinet[]
 - Spriter"
+[blue]Tonictech[]
+- Contributor
+[green]Hurb[]
+- Contributor
+[gray]Felon/Raptor[]
+- Contributor
+"
 repo: "GMugXD/qw-mod"
 minGameVersion: 143
 version: 69420
