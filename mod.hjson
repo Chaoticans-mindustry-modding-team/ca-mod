@@ -4,31 +4,7 @@ subtitle: "the gaming is real"
 description: "Mod for QW.
 
 Focused on improving the rp experience."
-author: "[#f]bloop[gray]
-- Original mod creator
-[lightgray]iris[]
-- Contributor of original mod
-[#f]qua[#d]nt[#b]um[][][]
-- Contributor of original mod
-- QW owner
-T[blue]4[yellow]S[][]C
-- Contributor of original mod
-[#0]Nameless[]
-- Contributor
-- Made me debloat
-[#0050ff]GMug.[]
-- Main developer
-[stat]HanLarence[]
-- Spriter
-[#f]Exinet[]
-- Spriter"
-[blue]Tonictech[]
-- Contributor
-[green]Hurb[]
-- Contributor
-[gray]Felon/Raptor[]
-- Contributor
-"
+author: "Bloop, Iris/petal, Quantum, Nameless, T4SC, HanLarence, Exinet, Tech, Hurb & All of QW"
 repo: "GMugXD/qw-mod"
 minGameVersion: 143
 version: 69420
