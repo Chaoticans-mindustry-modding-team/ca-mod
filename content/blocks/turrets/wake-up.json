@@ -1,11 +1,11 @@
 {
 	"type": "itemTurret",
 	"health": 1000,
-	"name": "Wake-up",
+	"name": "Wakeup.mp3",
 	"alwaysUnlocked": true,
     "shake": 2,
 	"top": true,
-	"size": 2,
+	"size": 1,
 	"reload": 0,
 	"range": 100,
     "shootY": 1,

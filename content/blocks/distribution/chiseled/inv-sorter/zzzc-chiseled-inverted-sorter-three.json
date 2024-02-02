@@ -4,7 +4,8 @@
     "health": 600,
     "size": 1,
     "invert": true,
-    "rotate": true,
+    "rotate": true
+    "hasShadow": false,,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",

@@ -1,16 +1,15 @@
 {    
-    "type": "Sorter",
-    "name": "Chiseled Sorter Five",
+    "type": "Wall",
+    "name": "Angled Chain 8",
     "health": 600,
     "size": 1,
-    "rotate": true,
     "hasShadow": false,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
-        "copper/2",
-        "lead/2"
+     "tungsten/3"
     ],
-    "category": "distribution",
+    "category": "effect",
     "research": {
     
     }

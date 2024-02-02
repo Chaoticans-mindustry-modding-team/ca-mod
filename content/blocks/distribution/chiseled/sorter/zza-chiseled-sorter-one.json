@@ -3,6 +3,7 @@
     "name": "Chiseled Sorter One",
     "health": 600,
     "size": 1,
+    "hasShadow": false,
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
