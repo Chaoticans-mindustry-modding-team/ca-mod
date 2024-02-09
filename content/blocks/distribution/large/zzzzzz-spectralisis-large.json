@@ -1,8 +1,9 @@
 {    
-    "type": "Sorter",
+    "type": "UnitCargoUnloadPoint",
     "name": "Large Spectral Sorter",
     "health": 600,
     "size": 2,
+    "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",
