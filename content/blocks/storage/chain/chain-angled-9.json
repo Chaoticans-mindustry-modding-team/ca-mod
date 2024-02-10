@@ -3,7 +3,6 @@
     "name": "Angled Chain 9",
     "health": 600,
     "size": 1,
-    "hasShadow": false,
     "rotate": true,
     "alwaysUnlocked": true,
     "requirements": [

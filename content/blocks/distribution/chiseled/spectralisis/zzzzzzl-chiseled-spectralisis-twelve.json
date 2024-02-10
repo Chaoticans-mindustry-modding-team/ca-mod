@@ -1,10 +1,9 @@
 {    
     "type": "Sorter",
-    "name": "Chiseled Spectral Nine",
+    "name": "Chiseled Spectral Twelve",
     "health": 600,
     "size": 1,
     "rotate": true,
-    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",

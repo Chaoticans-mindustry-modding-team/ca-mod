@@ -1,10 +1,9 @@
 {    
     "type": "Sorter",
-    "name": "Chiseled Spectral Eight",
+    "name": "Chiseled Spectral Four",
     "health": 600,
     "size": 1,
     "rotate": true,
-    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",

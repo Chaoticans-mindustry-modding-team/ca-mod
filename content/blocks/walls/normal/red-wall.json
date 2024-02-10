@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Maroon Wall",
+    "name": "Crimson Wall",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,

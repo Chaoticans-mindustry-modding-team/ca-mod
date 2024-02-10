@@ -3,7 +3,6 @@
     "name": "False Sorter",
     "health": 600,
     "size": 1,
-    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [],
     "category": "distribution",

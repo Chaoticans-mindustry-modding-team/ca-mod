@@ -5,7 +5,6 @@
     "size": 1,
     "invert": true,
     "rotate": true,
-    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",

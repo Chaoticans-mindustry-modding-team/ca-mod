@@ -1,10 +1,9 @@
 {    
     "type": "Sorter",
-    "name": "Chiseled Spectral Thirteen",
+    "name": "Chiseled Spectral Fourteen",
     "health": 600,
     "size": 1,
     "rotate": true,
-    "hasShadow": false,
     "alwaysUnlocked": true,
     "requirements": [
         "copper/2",
