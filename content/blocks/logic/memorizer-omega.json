@@ -1,0 +1,17 @@
+{    
+    "type": "MemoryBlock",
+    "name": "Omega Memory Cell",
+    "health": 600,
+    "size": 1,
+    "memoryCapacity": 2048,
+    "requirements": [
+     "silicon/200",
+     "phase-fabric/60",
+     "surge-alloy/40",
+     "copper/100"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}

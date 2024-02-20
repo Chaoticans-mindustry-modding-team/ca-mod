@@ -1,0 +1,12 @@
+{    
+    "type": "Unloader",
+    "name": "Dark Inverted Sorter",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

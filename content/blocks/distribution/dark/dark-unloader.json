@@ -1,0 +1,12 @@
+{    
+    "type": "Unloader",
+    "name": "Dark Unloader",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

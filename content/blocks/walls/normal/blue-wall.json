@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Blue Wall",
+    "name": "Navy Wall",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,

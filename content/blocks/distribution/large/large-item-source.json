@@ -1,5 +1,5 @@
 {    
-    "type": "ItemSource",
+    "type": "Unloader",
     "name": "Large Item Source",
     "health": 600,
     "size": 2,

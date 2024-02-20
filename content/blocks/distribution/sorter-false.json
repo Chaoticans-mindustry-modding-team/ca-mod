@@ -1,0 +1,12 @@
+{    
+    "type": "LiquidSource",
+    "name": "False Sorter",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}

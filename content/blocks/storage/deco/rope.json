@@ -1,0 +1,16 @@
+{    
+    "type": "Wall",
+    "name": "Rope",
+    "health": 600,
+    "size": 1,
+    "hasShadow": false,
+    "rotate": true,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "tungsten/3"
+    ],
+    "category": "effect",
+    "research": {
+    
+    }
+}
