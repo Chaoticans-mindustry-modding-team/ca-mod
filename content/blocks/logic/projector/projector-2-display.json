@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Hyper Projector",
+    "name": "2x2 Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 224,
+    "displaySize": 64,
     "requirements": [
         "metaglass/50",
         "camod-green/25"

@@ -6,6 +6,7 @@
     "range": 1000,
     "instructionsPerTick": 400,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [
      "copper/90",
         "lead/50",

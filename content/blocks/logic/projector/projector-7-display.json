@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Mega Projector",
+    "name": "7x7 Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 128,
+    "displaySize": 224,
     "requirements": [
         "metaglass/50",
         "camod-green/25"

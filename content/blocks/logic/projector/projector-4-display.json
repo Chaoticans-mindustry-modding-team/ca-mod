@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Mini Projector",
+    "name": "4x4 Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 64,
+    "displaySize": 128,
     "requirements": [
         "metaglass/50",
         "camod-green/25"

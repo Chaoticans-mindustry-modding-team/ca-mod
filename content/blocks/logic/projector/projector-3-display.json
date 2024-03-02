@@ -1,6 +1,6 @@
 {    
     "type": "LogicDisplay",
-    "name": "Micro Projector",
+    "name": "3x3 Projector",
     "health": 100,
     "size": 1,
     "displaySize": 96,

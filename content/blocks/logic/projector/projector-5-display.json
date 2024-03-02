@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Ultra Projector",
+    "name": "5x5 Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 320,
+    "displaySize": 160,
     "requirements": [
         "metaglass/50",
         "camod-green/25"

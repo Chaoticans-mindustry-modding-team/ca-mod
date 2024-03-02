@@ -6,6 +6,7 @@
      "maxNewlines": 2000,
     "maxTextLength": 22000,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [
      "copper/5",
         "graphite/5",

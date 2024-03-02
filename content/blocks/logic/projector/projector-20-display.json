@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Reality Projector",
+    "name": "20x20 Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 160,
+    "displaySize": 640,
     "requirements": [
         "metaglass/50",
         "camod-green/25"
