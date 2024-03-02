@@ -3,7 +3,7 @@
     "name": "Gay Wall",
     "health": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
     "size": 1,
-    "varients": 6,
+    "variants": 6,
     "alwaysUnlocked": true,
     "requirements": [
      "copper/69"
