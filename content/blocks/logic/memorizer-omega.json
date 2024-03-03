@@ -3,7 +3,7 @@
     "name": "Omega Memory Cell",
     "health": 600,
     "size": 1,
-    "memoryCapacity": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+    "memoryCapacity": 2048,
     "requirements": [
      "silicon/200",
      "phase-fabric/60",
