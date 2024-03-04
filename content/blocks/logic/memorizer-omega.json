@@ -1,6 +1,7 @@
 {    
     "type": "MemoryBlock",
     "name": "Omega Memory Cell",
+    "description": "Stores a total of 512kiB of data. Use sparingly.",
     "health": 600,
     "size": 1,
     "memoryCapacity": 65536,
