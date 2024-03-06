@@ -3,5 +3,6 @@
   "description": "Cyan-colored water.",
   "isLiquid": true,
   "cache": "water",
-  "color": "00dfdf"
+  "color": "00dfdf",
+  "temperature": -10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 }
