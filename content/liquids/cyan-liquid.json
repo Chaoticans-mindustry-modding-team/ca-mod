@@ -4,5 +4,6 @@
   "isLiquid": true,
   "cache": "water",
   "color": "00dfdf",
+  "heatCapacity": 1000000,
   "temperature": -1000000
 }
